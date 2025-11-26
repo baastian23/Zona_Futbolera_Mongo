@@ -1097,4 +1097,15 @@
   "stock_minimo": 9,
   "ubicacion": "D-13",
   "fecha_actualizacion": "2024-06-11"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56b5"
+  },
+  "id_inventario": 101,
+  "id_producto": 101,
+  "stock": 54,
+  "stock_minimo": 10,
+  "ubicacion": "C-158",
+  "fecha_actualizacion": "2024-06-10"
 }]
