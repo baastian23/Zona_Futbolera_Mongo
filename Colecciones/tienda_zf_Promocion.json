@@ -1,0 +1,1300 @@
+[{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d7e"
+  },
+  "id_promocion": 30,
+  "codigo": "PROMO030",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 10,
+  "fecha_inicio": "31/03/2024",
+  "fecha_fin": "29/06/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d7f"
+  },
+  "id_promocion": 31,
+  "codigo": "PROMO002",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 10,
+  "fecha_inicio": "07/01/2024",
+  "fecha_fin": "06/04/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d80"
+  },
+  "id_promocion": 3,
+  "codigo": "PROMO003",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "10/01/2024",
+  "fecha_fin": "09/04/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d81"
+  },
+  "id_promocion": 4,
+  "codigo": "PROMO004",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 15,
+  "fecha_inicio": "13/01/2024",
+  "fecha_fin": "12/04/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d82"
+  },
+  "id_promocion": 5,
+  "codigo": "PROMO005",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "16/01/2024",
+  "fecha_fin": "15/04/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d83"
+  },
+  "id_promocion": 6,
+  "codigo": "PROMO006",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 25,
+  "fecha_inicio": "19/01/2024",
+  "fecha_fin": "18/04/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d84"
+  },
+  "id_promocion": 7,
+  "codigo": "PROMO007",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "22/01/2024",
+  "fecha_fin": "21/04/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d85"
+  },
+  "id_promocion": 8,
+  "codigo": "PROMO008",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 7,
+  "fecha_inicio": "25/01/2024",
+  "fecha_fin": "24/04/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d86"
+  },
+  "id_promocion": 9,
+  "codigo": "PROMO009",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "28/01/2024",
+  "fecha_fin": "27/04/2024",
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d87"
+  },
+  "id_promocion": 10,
+  "codigo": "PROMO010",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 12,
+  "fecha_inicio": "31/01/2024",
+  "fecha_fin": "30/04/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d88"
+  },
+  "id_promocion": 11,
+  "codigo": "PROMO011",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "03/02/2024",
+  "fecha_fin": "03/05/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d89"
+  },
+  "id_promocion": 12,
+  "codigo": "PROMO012",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 20,
+  "fecha_inicio": "06/02/2024",
+  "fecha_fin": "06/05/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d8a"
+  },
+  "id_promocion": 13,
+  "codigo": "PROMO013",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "09/02/2024",
+  "fecha_fin": "09/05/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d8b"
+  },
+  "id_promocion": 14,
+  "codigo": "PROMO014",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 5,
+  "fecha_inicio": "12/02/2024",
+  "fecha_fin": "12/05/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d8c"
+  },
+  "id_promocion": 15,
+  "codigo": "PROMO015",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "15/02/2024",
+  "fecha_fin": "15/05/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d8d"
+  },
+  "id_promocion": 16,
+  "codigo": "PROMO016",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 10,
+  "fecha_inicio": "18/02/2024",
+  "fecha_fin": "18/05/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d8e"
+  },
+  "id_promocion": 17,
+  "codigo": "PROMO017",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "21/02/2024",
+  "fecha_fin": "21/05/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d8f"
+  },
+  "id_promocion": 18,
+  "codigo": "PROMO018",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 15,
+  "fecha_inicio": "24/02/2024",
+  "fecha_fin": "24/05/2024",
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d90"
+  },
+  "id_promocion": 19,
+  "codigo": "PROMO019",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "27/02/2024",
+  "fecha_fin": "27/05/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d91"
+  },
+  "id_promocion": 20,
+  "codigo": "PROMO020",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 25,
+  "fecha_inicio": "01/03/2024",
+  "fecha_fin": "30/05/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d92"
+  },
+  "id_promocion": 21,
+  "codigo": "PROMO021",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "04/03/2024",
+  "fecha_fin": "02/06/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d93"
+  },
+  "id_promocion": 22,
+  "codigo": "PROMO022",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 7,
+  "fecha_inicio": "07/03/2024",
+  "fecha_fin": "05/06/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d94"
+  },
+  "id_promocion": 23,
+  "codigo": "PROMO023",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "10/03/2024",
+  "fecha_fin": "08/06/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d95"
+  },
+  "id_promocion": 24,
+  "codigo": "PROMO024",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 12,
+  "fecha_inicio": "13/03/2024",
+  "fecha_fin": "11/06/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d96"
+  },
+  "id_promocion": 25,
+  "codigo": "PROMO025",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "16/03/2024",
+  "fecha_fin": "14/06/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d97"
+  },
+  "id_promocion": 26,
+  "codigo": "PROMO026",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 20,
+  "fecha_inicio": "19/03/2024",
+  "fecha_fin": "17/06/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d98"
+  },
+  "id_promocion": 27,
+  "codigo": "PROMO027",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "22/03/2024",
+  "fecha_fin": "20/06/2024",
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d99"
+  },
+  "id_promocion": 28,
+  "codigo": "PROMO028",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 5,
+  "fecha_inicio": "25/03/2024",
+  "fecha_fin": "23/06/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d9a"
+  },
+  "id_promocion": 29,
+  "codigo": "PROMO029",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "28/03/2024",
+  "fecha_fin": "26/06/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d9b"
+  },
+  "id_promocion": 30,
+  "codigo": "PROMO030",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 10,
+  "fecha_inicio": "31/03/2024",
+  "fecha_fin": "29/06/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d9c"
+  },
+  "id_promocion": 31,
+  "codigo": "PROMO031",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "03/04/2024",
+  "fecha_fin": "02/07/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d9d"
+  },
+  "id_promocion": 32,
+  "codigo": "PROMO032",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 15,
+  "fecha_inicio": "06/04/2024",
+  "fecha_fin": "05/07/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d9e"
+  },
+  "id_promocion": 33,
+  "codigo": "PROMO033",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "09/04/2024",
+  "fecha_fin": "08/07/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821d9f"
+  },
+  "id_promocion": 34,
+  "codigo": "PROMO034",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 25,
+  "fecha_inicio": "12/04/2024",
+  "fecha_fin": "11/07/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821da0"
+  },
+  "id_promocion": 35,
+  "codigo": "PROMO035",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "15/04/2024",
+  "fecha_fin": "14/07/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821da1"
+  },
+  "id_promocion": 36,
+  "codigo": "PROMO036",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 7,
+  "fecha_inicio": "18/04/2024",
+  "fecha_fin": "17/07/2024",
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821da2"
+  },
+  "id_promocion": 37,
+  "codigo": "PROMO037",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "21/04/2024",
+  "fecha_fin": "20/07/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821da3"
+  },
+  "id_promocion": 38,
+  "codigo": "PROMO038",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 12,
+  "fecha_inicio": "24/04/2024",
+  "fecha_fin": "23/07/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821da4"
+  },
+  "id_promocion": 39,
+  "codigo": "PROMO039",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "27/04/2024",
+  "fecha_fin": "26/07/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821da5"
+  },
+  "id_promocion": 40,
+  "codigo": "PROMO040",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 20,
+  "fecha_inicio": "30/04/2024",
+  "fecha_fin": "29/07/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821da6"
+  },
+  "id_promocion": 41,
+  "codigo": "PROMO041",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "03/05/2024",
+  "fecha_fin": "01/08/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821da7"
+  },
+  "id_promocion": 42,
+  "codigo": "PROMO042",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 5,
+  "fecha_inicio": "06/05/2024",
+  "fecha_fin": "04/08/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821da8"
+  },
+  "id_promocion": 43,
+  "codigo": "PROMO043",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "09/05/2024",
+  "fecha_fin": "07/08/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821da9"
+  },
+  "id_promocion": 44,
+  "codigo": "PROMO044",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 10,
+  "fecha_inicio": "12/05/2024",
+  "fecha_fin": "10/08/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821daa"
+  },
+  "id_promocion": 45,
+  "codigo": "PROMO045",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "15/05/2024",
+  "fecha_fin": "13/08/2024",
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dab"
+  },
+  "id_promocion": 46,
+  "codigo": "PROMO046",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 15,
+  "fecha_inicio": "18/05/2024",
+  "fecha_fin": "16/08/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dac"
+  },
+  "id_promocion": 47,
+  "codigo": "PROMO047",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "21/05/2024",
+  "fecha_fin": "19/08/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dad"
+  },
+  "id_promocion": 48,
+  "codigo": "PROMO048",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 25,
+  "fecha_inicio": "24/05/2024",
+  "fecha_fin": "22/08/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dae"
+  },
+  "id_promocion": 49,
+  "codigo": "PROMO049",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "27/05/2024",
+  "fecha_fin": "25/08/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821daf"
+  },
+  "id_promocion": 50,
+  "codigo": "PROMO050",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 7,
+  "fecha_inicio": "30/05/2024",
+  "fecha_fin": "28/08/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821db0"
+  },
+  "id_promocion": 51,
+  "codigo": "PROMO051",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "02/06/2024",
+  "fecha_fin": "31/08/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821db1"
+  },
+  "id_promocion": 52,
+  "codigo": "PROMO052",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 12,
+  "fecha_inicio": "05/06/2024",
+  "fecha_fin": "03/09/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821db2"
+  },
+  "id_promocion": 53,
+  "codigo": "PROMO053",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "08/06/2024",
+  "fecha_fin": "06/09/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821db3"
+  },
+  "id_promocion": 54,
+  "codigo": "PROMO054",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 20,
+  "fecha_inicio": "11/06/2024",
+  "fecha_fin": "09/09/2024",
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821db4"
+  },
+  "id_promocion": 55,
+  "codigo": "PROMO055",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "14/06/2024",
+  "fecha_fin": "12/09/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821db5"
+  },
+  "id_promocion": 56,
+  "codigo": "PROMO056",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 5,
+  "fecha_inicio": "17/06/2024",
+  "fecha_fin": "15/09/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821db6"
+  },
+  "id_promocion": 57,
+  "codigo": "PROMO057",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "20/06/2024",
+  "fecha_fin": "18/09/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821db7"
+  },
+  "id_promocion": 58,
+  "codigo": "PROMO058",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 10,
+  "fecha_inicio": "23/06/2024",
+  "fecha_fin": "21/09/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821db8"
+  },
+  "id_promocion": 59,
+  "codigo": "PROMO059",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "26/06/2024",
+  "fecha_fin": "24/09/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821db9"
+  },
+  "id_promocion": 60,
+  "codigo": "PROMO060",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 15,
+  "fecha_inicio": "01/01/2024",
+  "fecha_fin": "31/03/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dba"
+  },
+  "id_promocion": 61,
+  "codigo": "PROMO061",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "04/01/2024",
+  "fecha_fin": "03/04/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dbb"
+  },
+  "id_promocion": 62,
+  "codigo": "PROMO062",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 25,
+  "fecha_inicio": "07/01/2024",
+  "fecha_fin": "06/04/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dbc"
+  },
+  "id_promocion": 63,
+  "codigo": "PROMO063",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "10/01/2024",
+  "fecha_fin": "09/04/2024",
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dbd"
+  },
+  "id_promocion": 64,
+  "codigo": "PROMO064",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 7,
+  "fecha_inicio": "13/01/2024",
+  "fecha_fin": "12/04/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dbe"
+  },
+  "id_promocion": 65,
+  "codigo": "PROMO065",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "16/01/2024",
+  "fecha_fin": "15/04/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dbf"
+  },
+  "id_promocion": 66,
+  "codigo": "PROMO066",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 12,
+  "fecha_inicio": "19/01/2024",
+  "fecha_fin": "18/04/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dc0"
+  },
+  "id_promocion": 67,
+  "codigo": "PROMO067",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "22/01/2024",
+  "fecha_fin": "21/04/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dc1"
+  },
+  "id_promocion": 68,
+  "codigo": "PROMO068",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 20,
+  "fecha_inicio": "25/01/2024",
+  "fecha_fin": "24/04/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dc2"
+  },
+  "id_promocion": 69,
+  "codigo": "PROMO069",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "28/01/2024",
+  "fecha_fin": "27/04/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dc3"
+  },
+  "id_promocion": 70,
+  "codigo": "PROMO070",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 5,
+  "fecha_inicio": "31/01/2024",
+  "fecha_fin": "30/04/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dc4"
+  },
+  "id_promocion": 71,
+  "codigo": "PROMO071",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "03/02/2024",
+  "fecha_fin": "03/05/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dc5"
+  },
+  "id_promocion": 72,
+  "codigo": "PROMO072",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 10,
+  "fecha_inicio": "06/02/2024",
+  "fecha_fin": "06/05/2024",
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dc6"
+  },
+  "id_promocion": 73,
+  "codigo": "PROMO073",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "09/02/2024",
+  "fecha_fin": "09/05/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dc7"
+  },
+  "id_promocion": 74,
+  "codigo": "PROMO074",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 15,
+  "fecha_inicio": "12/02/2024",
+  "fecha_fin": "12/05/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dc8"
+  },
+  "id_promocion": 75,
+  "codigo": "PROMO075",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "15/02/2024",
+  "fecha_fin": "15/05/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dc9"
+  },
+  "id_promocion": 76,
+  "codigo": "PROMO076",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 25,
+  "fecha_inicio": "18/02/2024",
+  "fecha_fin": "18/05/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dca"
+  },
+  "id_promocion": 77,
+  "codigo": "PROMO077",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "21/02/2024",
+  "fecha_fin": "21/05/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dcb"
+  },
+  "id_promocion": 78,
+  "codigo": "PROMO078",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 7,
+  "fecha_inicio": "24/02/2024",
+  "fecha_fin": "24/05/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dcc"
+  },
+  "id_promocion": 79,
+  "codigo": "PROMO079",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "27/02/2024",
+  "fecha_fin": "27/05/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dcd"
+  },
+  "id_promocion": 80,
+  "codigo": "PROMO080",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 12,
+  "fecha_inicio": "01/03/2024",
+  "fecha_fin": "30/05/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dce"
+  },
+  "id_promocion": 81,
+  "codigo": "PROMO081",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "04/03/2024",
+  "fecha_fin": "02/06/2024",
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dcf"
+  },
+  "id_promocion": 82,
+  "codigo": "PROMO082",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 20,
+  "fecha_inicio": "07/03/2024",
+  "fecha_fin": "05/06/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dd0"
+  },
+  "id_promocion": 83,
+  "codigo": "PROMO083",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "10/03/2024",
+  "fecha_fin": "08/06/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dd1"
+  },
+  "id_promocion": 84,
+  "codigo": "PROMO084",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 5,
+  "fecha_inicio": "13/03/2024",
+  "fecha_fin": "11/06/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dd2"
+  },
+  "id_promocion": 85,
+  "codigo": "PROMO085",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "16/03/2024",
+  "fecha_fin": "14/06/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dd3"
+  },
+  "id_promocion": 86,
+  "codigo": "PROMO086",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 10,
+  "fecha_inicio": "19/03/2024",
+  "fecha_fin": "17/06/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dd4"
+  },
+  "id_promocion": 87,
+  "codigo": "PROMO087",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "22/03/2024",
+  "fecha_fin": "20/06/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dd5"
+  },
+  "id_promocion": 88,
+  "codigo": "PROMO088",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 15,
+  "fecha_inicio": "25/03/2024",
+  "fecha_fin": "23/06/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dd6"
+  },
+  "id_promocion": 89,
+  "codigo": "PROMO089",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "28/03/2024",
+  "fecha_fin": "26/06/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dd7"
+  },
+  "id_promocion": 90,
+  "codigo": "PROMO090",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 25,
+  "fecha_inicio": "31/03/2024",
+  "fecha_fin": "29/06/2024",
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dd8"
+  },
+  "id_promocion": 91,
+  "codigo": "PROMO091",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "03/04/2024",
+  "fecha_fin": "02/07/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dd9"
+  },
+  "id_promocion": 92,
+  "codigo": "PROMO092",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 7,
+  "fecha_inicio": "06/04/2024",
+  "fecha_fin": "05/07/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dda"
+  },
+  "id_promocion": 93,
+  "codigo": "PROMO093",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "09/04/2024",
+  "fecha_fin": "08/07/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821ddb"
+  },
+  "id_promocion": 94,
+  "codigo": "PROMO094",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 12,
+  "fecha_inicio": "12/04/2024",
+  "fecha_fin": "11/07/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821ddc"
+  },
+  "id_promocion": 95,
+  "codigo": "PROMO095",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "15/04/2024",
+  "fecha_fin": "14/07/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821ddd"
+  },
+  "id_promocion": 96,
+  "codigo": "PROMO096",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 20,
+  "fecha_inicio": "18/04/2024",
+  "fecha_fin": "17/07/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821dde"
+  },
+  "id_promocion": 97,
+  "codigo": "PROMO097",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 2000,
+  "fecha_inicio": "21/04/2024",
+  "fecha_fin": "20/07/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821ddf"
+  },
+  "id_promocion": 98,
+  "codigo": "PROMO098",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 5,
+  "fecha_inicio": "24/04/2024",
+  "fecha_fin": "23/07/2024",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821de0"
+  },
+  "id_promocion": 99,
+  "codigo": "PROMO099",
+  "descripcion": "Descuento fijo por categoría",
+  "tipo": "FIJO",
+  "valor": 5000,
+  "fecha_inicio": "27/04/2024",
+  "fecha_fin": "26/07/2024",
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "6917f49d9d92261243821de1"
+  },
+  "id_promocion": 100,
+  "codigo": "PROMO100",
+  "descripcion": "Descuento porcentual genérico",
+  "tipo": "PCT",
+  "valor": 10,
+  "fecha_inicio": "30/04/2024",
+  "fecha_fin": "29/07/2024",
+  "activo": true
+}]
