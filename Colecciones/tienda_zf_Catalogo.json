@@ -1,0 +1,1173 @@
+[{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5605"
+  },
+  "id_producto": 1,
+  "nombre": "POLERA 001",
+  "categoria": "POLERAS",
+  "marca": "ADIDAS",
+  "talla": "S",
+  "deporte": "FUTBOL",
+  "precio": 15503,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5607"
+  },
+  "id_producto": 3,
+  "nombre": "BALONE 003",
+  "categoria": "BALONES",
+  "marca": "PUMA",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 15753,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5608"
+  },
+  "id_producto": 4,
+  "nombre": "ACCESORIO 004",
+  "categoria": "ACCESORIOS",
+  "marca": "UHLSPORT",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 3548,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5609"
+  },
+  "id_producto": 5,
+  "nombre": "SHORT 005",
+  "categoria": "SHORTS",
+  "marca": "ADIDAS",
+  "talla": "S",
+  "deporte": "FUTBOL",
+  "precio": 9995,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc560a"
+  },
+  "id_producto": 6,
+  "nombre": "CHAQUETA 006",
+  "categoria": "CHAQUETAS",
+  "marca": "NIKE",
+  "talla": "M",
+  "deporte": "FUTBOL",
+  "precio": 32202,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc560b"
+  },
+  "id_producto": 7,
+  "nombre": "POLERA 007",
+  "categoria": "POLERAS",
+  "marca": "PUMA",
+  "talla": "L",
+  "deporte": "FUTBOL",
+  "precio": 18521,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc560c"
+  },
+  "id_producto": 8,
+  "nombre": "BOTINE 008",
+  "categoria": "BOTINES",
+  "marca": "UHLSPORT",
+  "talla": "45",
+  "deporte": "FUTBOL",
+  "precio": 50608,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc560d"
+  },
+  "id_producto": 9,
+  "nombre": "BALONE 009",
+  "categoria": "BALONES",
+  "marca": "ADIDAS",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 17259,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc560e"
+  },
+  "id_producto": 10,
+  "nombre": "ACCESORIO 010",
+  "categoria": "ACCESORIOS",
+  "marca": "NIKE",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 4370,
+  "activo": false,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc560f"
+  },
+  "id_producto": 11,
+  "nombre": "SHORT 011",
+  "categoria": "SHORTS",
+  "marca": "PUMA",
+  "talla": "L",
+  "deporte": "FUTBOL",
+  "precio": 11189,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5610"
+  },
+  "id_producto": 12,
+  "nombre": "CHAQUETA 012",
+  "categoria": "CHAQUETAS",
+  "marca": "UHLSPORT",
+  "talla": "XL",
+  "deporte": "FUTBOL",
+  "precio": 34404,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5611"
+  },
+  "id_producto": 13,
+  "nombre": "POLERA 013",
+  "categoria": "POLERAS",
+  "marca": "ADIDAS",
+  "talla": "S",
+  "deporte": "FUTBOL",
+  "precio": 21539,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5612"
+  },
+  "id_producto": 14,
+  "nombre": "BOTINE 014",
+  "categoria": "BOTINES",
+  "marca": "NIKE",
+  "talla": "41",
+  "deporte": "FUTBOL",
+  "precio": 54814,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5613"
+  },
+  "id_producto": 15,
+  "nombre": "BALONE 015",
+  "categoria": "BALONES",
+  "marca": "PUMA",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 18765,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5614"
+  },
+  "id_producto": 16,
+  "nombre": "ACCESORIO 016",
+  "categoria": "ACCESORIOS",
+  "marca": "UHLSPORT",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 5192,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5615"
+  },
+  "id_producto": 17,
+  "nombre": "SHORT 017",
+  "categoria": "SHORTS",
+  "marca": "ADIDAS",
+  "talla": "S",
+  "deporte": "FUTBOL",
+  "precio": 12383,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5616"
+  },
+  "id_producto": 18,
+  "nombre": "CHAQUETA 018",
+  "categoria": "CHAQUETAS",
+  "marca": "NIKE",
+  "talla": "M",
+  "deporte": "FUTBOL",
+  "precio": 36606,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5617"
+  },
+  "id_producto": 19,
+  "nombre": "POLERA 019",
+  "categoria": "POLERAS",
+  "marca": "PUMA",
+  "talla": "L",
+  "deporte": "FUTBOL",
+  "precio": 24557,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5618"
+  },
+  "id_producto": 20,
+  "nombre": "BOTINE 020",
+  "categoria": "BOTINES",
+  "marca": "UHLSPORT",
+  "talla": "47",
+  "deporte": "FUTBOL",
+  "precio": 59020,
+  "activo": false,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5619"
+  },
+  "id_producto": 21,
+  "nombre": "BALONE 021",
+  "categoria": "BALONES",
+  "marca": "ADIDAS",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 20271,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc561a"
+  },
+  "id_producto": 22,
+  "nombre": "ACCESORIO 022",
+  "categoria": "ACCESORIOS",
+  "marca": "NIKE",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 6014,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc561b"
+  },
+  "id_producto": 23,
+  "nombre": "SHORT 023",
+  "categoria": "SHORTS",
+  "marca": "PUMA",
+  "talla": "L",
+  "deporte": "FUTBOL",
+  "precio": 13577,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc561c"
+  },
+  "id_producto": 24,
+  "nombre": "CHAQUETA 024",
+  "categoria": "CHAQUETAS",
+  "marca": "UHLSPORT",
+  "talla": "XL",
+  "deporte": "FUTBOL",
+  "precio": 38808,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc561d"
+  },
+  "id_producto": 25,
+  "nombre": "POLERA 025",
+  "categoria": "POLERAS",
+  "marca": "ADIDAS",
+  "talla": "S",
+  "deporte": "FUTBOL",
+  "precio": 27575,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc561e"
+  },
+  "id_producto": 26,
+  "nombre": "BOTINE 026",
+  "categoria": "BOTINES",
+  "marca": "NIKE",
+  "talla": "43",
+  "deporte": "FUTBOL",
+  "precio": 63226,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc561f"
+  },
+  "id_producto": 27,
+  "nombre": "BALONE 027",
+  "categoria": "BALONES",
+  "marca": "PUMA",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 21777,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5620"
+  },
+  "id_producto": 28,
+  "nombre": "ACCESORIO 028",
+  "categoria": "ACCESORIOS",
+  "marca": "UHLSPORT",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 6836,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5621"
+  },
+  "id_producto": 29,
+  "nombre": "SHORT 029",
+  "categoria": "SHORTS",
+  "marca": "ADIDAS",
+  "talla": "S",
+  "deporte": "FUTBOL",
+  "precio": 14771,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5622"
+  },
+  "id_producto": 30,
+  "nombre": "CHAQUETA 030",
+  "categoria": "CHAQUETAS",
+  "marca": "NIKE",
+  "talla": "M",
+  "deporte": "FUTBOL",
+  "precio": 41010,
+  "activo": false,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5623"
+  },
+  "id_producto": 31,
+  "nombre": "POLERA 031",
+  "categoria": "POLERAS",
+  "marca": "PUMA",
+  "talla": "L",
+  "deporte": "FUTBOL",
+  "precio": 30593,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5624"
+  },
+  "id_producto": 32,
+  "nombre": "BOTINE 032",
+  "categoria": "BOTINES",
+  "marca": "UHLSPORT",
+  "talla": "39",
+  "deporte": "FUTBOL",
+  "precio": 67432,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5625"
+  },
+  "id_producto": 33,
+  "nombre": "BALONE 033",
+  "categoria": "BALONES",
+  "marca": "ADIDAS",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 23283,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5626"
+  },
+  "id_producto": 34,
+  "nombre": "ACCESORIO 034",
+  "categoria": "ACCESORIOS",
+  "marca": "NIKE",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 7658,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5627"
+  },
+  "id_producto": 35,
+  "nombre": "SHORT 035",
+  "categoria": "SHORTS",
+  "marca": "PUMA",
+  "talla": "L",
+  "deporte": "FUTBOL",
+  "precio": 15965,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5628"
+  },
+  "id_producto": 36,
+  "nombre": "CHAQUETA 036",
+  "categoria": "CHAQUETAS",
+  "marca": "UHLSPORT",
+  "talla": "XL",
+  "deporte": "FUTBOL",
+  "precio": 43212,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5629"
+  },
+  "id_producto": 37,
+  "nombre": "POLERA 037",
+  "categoria": "POLERAS",
+  "marca": "ADIDAS",
+  "talla": "S",
+  "deporte": "FUTBOL",
+  "precio": 33611,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc562a"
+  },
+  "id_producto": 38,
+  "nombre": "BOTINE 038",
+  "categoria": "BOTINES",
+  "marca": "NIKE",
+  "talla": "45",
+  "deporte": "FUTBOL",
+  "precio": 71638,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc562b"
+  },
+  "id_producto": 39,
+  "nombre": "BALONE 039",
+  "categoria": "BALONES",
+  "marca": "PUMA",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 24789,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc562c"
+  },
+  "id_producto": 40,
+  "nombre": "ACCESORIO 040",
+  "categoria": "ACCESORIOS",
+  "marca": "UHLSPORT",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 8480,
+  "activo": false,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc562d"
+  },
+  "id_producto": 41,
+  "nombre": "SHORT 041",
+  "categoria": "SHORTS",
+  "marca": "ADIDAS",
+  "talla": "S",
+  "deporte": "FUTBOL",
+  "precio": 17159,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc562e"
+  },
+  "id_producto": 42,
+  "nombre": "CHAQUETA 042",
+  "categoria": "CHAQUETAS",
+  "marca": "NIKE",
+  "talla": "M",
+  "deporte": "FUTBOL",
+  "precio": 45414,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc562f"
+  },
+  "id_producto": 43,
+  "nombre": "POLERA 043",
+  "categoria": "POLERAS",
+  "marca": "PUMA",
+  "talla": "L",
+  "deporte": "FUTBOL",
+  "precio": 16629,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5630"
+  },
+  "id_producto": 44,
+  "nombre": "BOTINE 044",
+  "categoria": "BOTINES",
+  "marca": "UHLSPORT",
+  "talla": "41",
+  "deporte": "FUTBOL",
+  "precio": 75844,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5631"
+  },
+  "id_producto": 45,
+  "nombre": "BALONE 045",
+  "categoria": "BALONES",
+  "marca": "ADIDAS",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 26295,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5632"
+  },
+  "id_producto": 46,
+  "nombre": "ACCESORIO 046",
+  "categoria": "ACCESORIOS",
+  "marca": "NIKE",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 9302,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5633"
+  },
+  "id_producto": 47,
+  "nombre": "SHORT 047",
+  "categoria": "SHORTS",
+  "marca": "PUMA",
+  "talla": "L",
+  "deporte": "FUTBOL",
+  "precio": 9353,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5634"
+  },
+  "id_producto": 48,
+  "nombre": "CHAQUETA 048",
+  "categoria": "CHAQUETAS",
+  "marca": "UHLSPORT",
+  "talla": "XL",
+  "deporte": "FUTBOL",
+  "precio": 47616,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5635"
+  },
+  "id_producto": 49,
+  "nombre": "POLERA 049",
+  "categoria": "POLERAS",
+  "marca": "ADIDAS",
+  "talla": "S",
+  "deporte": "FUTBOL",
+  "precio": 19647,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5636"
+  },
+  "id_producto": 50,
+  "nombre": "BOTINE 050",
+  "categoria": "BOTINES",
+  "marca": "NIKE",
+  "talla": "47",
+  "deporte": "FUTBOL",
+  "precio": 45050,
+  "activo": false,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5637"
+  },
+  "id_producto": 51,
+  "nombre": "BALONE 051",
+  "categoria": "BALONES",
+  "marca": "PUMA",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 27801,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5638"
+  },
+  "id_producto": 52,
+  "nombre": "ACCESORIO 052",
+  "categoria": "ACCESORIOS",
+  "marca": "UHLSPORT",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 3124,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5639"
+  },
+  "id_producto": 53,
+  "nombre": "SHORT 053",
+  "categoria": "SHORTS",
+  "marca": "ADIDAS",
+  "talla": "S",
+  "deporte": "FUTBOL",
+  "precio": 10547,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc563a"
+  },
+  "id_producto": 54,
+  "nombre": "CHAQUETA 054",
+  "categoria": "CHAQUETAS",
+  "marca": "NIKE",
+  "talla": "M",
+  "deporte": "FUTBOL",
+  "precio": 49818,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc563b"
+  },
+  "id_producto": 55,
+  "nombre": "POLERA 055",
+  "categoria": "POLERAS",
+  "marca": "PUMA",
+  "talla": "L",
+  "deporte": "FUTBOL",
+  "precio": 22665,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc563c"
+  },
+  "id_producto": 56,
+  "nombre": "BOTINE 056",
+  "categoria": "BOTINES",
+  "marca": "UHLSPORT",
+  "talla": "43",
+  "deporte": "FUTBOL",
+  "precio": 49256,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc563d"
+  },
+  "id_producto": 57,
+  "nombre": "BALONE 057",
+  "categoria": "BALONES",
+  "marca": "ADIDAS",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 29307,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc563e"
+  },
+  "id_producto": 58,
+  "nombre": "ACCESORIO 058",
+  "categoria": "ACCESORIOS",
+  "marca": "NIKE",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 3946,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc563f"
+  },
+  "id_producto": 59,
+  "nombre": "SHORT 059",
+  "categoria": "SHORTS",
+  "marca": "PUMA",
+  "talla": "L",
+  "deporte": "FUTBOL",
+  "precio": 11741,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5640"
+  },
+  "id_producto": 60,
+  "nombre": "CHAQUETA 060",
+  "categoria": "CHAQUETAS",
+  "marca": "UHLSPORT",
+  "talla": "XL",
+  "deporte": "FUTBOL",
+  "precio": 52020,
+  "activo": false,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5641"
+  },
+  "id_producto": 61,
+  "nombre": "POLERA 061",
+  "categoria": "POLERAS",
+  "marca": "ADIDAS",
+  "talla": "S",
+  "deporte": "FUTBOL",
+  "precio": 25683,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5642"
+  },
+  "id_producto": 62,
+  "nombre": "BOTINE 062",
+  "categoria": "BOTINES",
+  "marca": "NIKE",
+  "talla": "39",
+  "deporte": "FUTBOL",
+  "precio": 53462,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5643"
+  },
+  "id_producto": 63,
+  "nombre": "BALONE 063",
+  "categoria": "BALONES",
+  "marca": "PUMA",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 15813,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5644"
+  },
+  "id_producto": 64,
+  "nombre": "ACCESORIO 064",
+  "categoria": "ACCESORIOS",
+  "marca": "UHLSPORT",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 4768,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5645"
+  },
+  "id_producto": 65,
+  "nombre": "SHORT 065",
+  "categoria": "SHORTS",
+  "marca": "ADIDAS",
+  "talla": "S",
+  "deporte": "FUTBOL",
+  "precio": 12935,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5646"
+  },
+  "id_producto": 66,
+  "nombre": "CHAQUETA 066",
+  "categoria": "CHAQUETAS",
+  "marca": "NIKE",
+  "talla": "M",
+  "deporte": "FUTBOL",
+  "precio": 54222,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5647"
+  },
+  "id_producto": 67,
+  "nombre": "POLERA 067",
+  "categoria": "POLERAS",
+  "marca": "PUMA",
+  "talla": "L",
+  "deporte": "FUTBOL",
+  "precio": 28701,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5648"
+  },
+  "id_producto": 68,
+  "nombre": "BOTINE 068",
+  "categoria": "BOTINES",
+  "marca": "UHLSPORT",
+  "talla": "45",
+  "deporte": "FUTBOL",
+  "precio": 57668,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc5649"
+  },
+  "id_producto": 69,
+  "nombre": "BALONE 069",
+  "categoria": "BALONES",
+  "marca": "ADIDAS",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 17319,
+  "activo": true,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "691a1bd5735ce4dd20dc564a"
+  },
+  "id_producto": 70,
+  "nombre": "ACCESORIO 070",
+  "categoria": "ACCESORIOS",
+  "marca": "NIKE",
+  "talla": "UN",
+  "deporte": "FUTBOL",
+  "precio": 5590,
+  "activo": false,
+  "inventario": {
+    "stock_total": 20,
+    "stock_minimo": 5
+  }
+}]
