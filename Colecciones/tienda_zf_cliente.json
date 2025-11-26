@@ -1,1 +1,702 @@
 
+[{
+  "_id": {
+    "$oid": "6919e55bcad10fad4d100079"
+  },
+  "id_cliente": 1092,
+  "dvrut_cli": "6",
+  "appaterno_cli": "SILVA",
+  "apmaterno_cli": "LOPEZ",
+  "nombre_cli": "SIMON",
+  "email_cli": "simon.silva@zf.cl",
+  "telefono_cli": "+56970000092",
+  "fec_registro": "02/04/24",
+  "rut_cli": "12000092"
+},
+{
+  "_id": {
+    "$oid": "6919e5d1cad10fad4d10007a"
+  },
+  "id_cliente": 1093,
+  "dvrut_cli": "4",
+  "appaterno_cli": "REYES",
+  "apmaterno_cli": "BUSTAMANTE",
+  "nombre_cli": "TAMARA",
+  "email_cli": "tamara.reyes@zf.cl",
+  "telefono_cli": "+56970000093",
+  "fec_registro": "03/04/24",
+  "rut_cli": "12000093"
+},
+{
+  "_id": {
+    "$oid": "6919e63ecad10fad4d10007e"
+  },
+  "id_cliente": 1094,
+  "dvrut_cli": "2",
+  "appaterno_cli": "GUTIERREZ",
+  "apmaterno_cli": "MUNOZ",
+  "nombre_cli": "ULICES",
+  "email_cli": "ulices.gutierrez@zf.cl",
+  "telefono_cli": "+56970000094",
+  "fec_registro": "04/04/24",
+  "rut_cli": "12000094"
+},
+{
+  "_id": {
+    "$oid": "6919e68ccad10fad4d10007f"
+  },
+  "id_cliente": 1095,
+  "dvrut_cli": "0",
+  "appaterno_cli": "HERRERA",
+  "apmaterno_cli": "SOTO",
+  "nombre_cli": "VALERIO",
+  "email_cli": "valerio.herrera@zf.cl",
+  "telefono_cli": "+56970000095",
+  "fec_registro": "05/04/24",
+  "rut_cli": "12000095"
+},
+{
+  "_id": {
+    "$oid": "6919e6b0cad10fad4d100080"
+  },
+  "id_cliente": 1096,
+  "dvrut_cli": "9",
+  "appaterno_cli": "FLORES",
+  "apmaterno_cli": "CASTRO",
+  "nombre_cli": "WILFREDO",
+  "email_cli": "wilfredo.flores@zf.cl",
+  "telefono_cli": "+56970000096",
+  "fec_registro": "06/04/24",
+  "rut_cli": "12000096"
+},
+{
+  "_id": {
+    "$oid": "6919e6e7cad10fad4d100081"
+  },
+  "id_cliente": 1097,
+  "dvrut_cli": "7",
+  "appaterno_cli": "VALENZUELA",
+  "apmaterno_cli": "CONTRERAS",
+  "nombre_cli": "XENIA",
+  "email_cli": "xenia.valenzuela@zf.cl",
+  "telefono_cli": "+56970000097",
+  "fec_registro": "07/04/24",
+  "rut_cli": "12000097"
+},
+{
+  "_id": {
+    "$oid": "6919e724cad10fad4d100082"
+  },
+  "id_cliente": 1098,
+  "dvrut_cli": "5",
+  "appaterno_cli": "JARA",
+  "apmaterno_cli": "GUTIERREZ",
+  "nombre_cli": "YAIR",
+  "email_cli": "yair.jara@zf.cl",
+  "telefono_cli": "+56970000098",
+  "fec_registro": "08/04/24",
+  "rut_cli": "12000098"
+},
+{
+  "_id": {
+    "$oid": "6919e77acad10fad4d10008a"
+  },
+  "id_cliente": 1099,
+  "dvrut_cli": "3",
+  "appaterno_cli": "VERGARA",
+  "apmaterno_cli": "VALENZUELA",
+  "nombre_cli": "ZULEMA",
+  "email_cli": "zulema.vergara@zf.cl",
+  "telefono_cli": "+56970000099",
+  "fec_registro": "09/04/24",
+  "rut_cli": "12000099"
+},
+{
+  "_id": {
+    "$oid": "6919e79ecad10fad4d10008b"
+  },
+  "id_cliente": 1000,
+  "dvrut_cli": "4",
+  "appaterno_cli": "PEREZ",
+  "apmaterno_cli": "GONZALEZ",
+  "nombre_cli": "AGUSTINA",
+  "email_cli": "agustina.perez@zf.cl",
+  "telefono_cli": "+56970000000",
+  "fec_registro": "01/03/24",
+  "rut_cli": "12000000"
+},
+{
+  "_id": {
+    "$oid": "6919e7cdcad10fad4d10008c"
+  },
+  "id_cliente": 1001,
+  "dvrut_cli": "2",
+  "appaterno_cli": "GONZALEZ",
+  "apmaterno_cli": "ROJAS",
+  "nombre_cli": "BENJAMIN",
+  "email_cli": "benja98@gmail.com",
+  "telefono_cli": "+56970000001",
+  "fec_registro": "02/03/24",
+  "rut_cli": "12000001"
+},
+{
+  "_id": {
+    "$oid": "6919e823cad10fad4d10008e"
+  },
+  "id_cliente": 1002,
+  "dvrut_cli": "0",
+  "appaterno_cli": "MUNOZ",
+  "apmaterno_cli": "TORRES",
+  "nombre_cli": "CAMILA",
+  "email_cli": "camila.munoz@zf.cl",
+  "telefono_cli": "+56970000002",
+  "fec_registro": "03/03/24",
+  "rut_cli": "12000002"
+},
+{
+  "_id": {
+    "$oid": "6919e83acad10fad4d10008f"
+  },
+  "id_cliente": 1003,
+  "dvrut_cli": "9",
+  "appaterno_cli": "ROJAS",
+  "apmaterno_cli": "VARGAS",
+  "nombre_cli": "DIEGO",
+  "email_cli": "diego.rojas@zf.cl",
+  "telefono_cli": "+56970000003",
+  "fec_registro": "04/03/24",
+  "rut_cli": "12000003"
+},
+{
+  "_id": {
+    "$oid": "6919e870cad10fad4d100090"
+  },
+  "id_cliente": 1004,
+  "dvrut_cli": "7",
+  "appaterno_cli": "DIAZ",
+  "apmaterno_cli": "SILVA",
+  "nombre_cli": "EMILIA",
+  "email_cli": "emilia.diaz@zf.cl",
+  "telefono_cli": "+56970000004",
+  "fec_registro": "05/03/24",
+  "rut_cli": "12000004"
+},
+{
+  "_id": {
+    "$oid": "6919e88ecad10fad4d100091"
+  },
+  "id_cliente": 1005,
+  "dvrut_cli": "5",
+  "appaterno_cli": "SOTO",
+  "apmaterno_cli": "HERRERA",
+  "nombre_cli": "FRANCISCO",
+  "email_cli": "francisco.soto@zf.cl",
+  "telefono_cli": "+56970000005",
+  "fec_registro": "06/03/24",
+  "rut_cli": "12000005"
+},
+{
+  "_id": {
+    "$oid": "6919e8b2cad10fad4d100093"
+  },
+  "id_cliente": 1006,
+  "dvrut_cli": "3",
+  "appaterno_cli": "TORRES",
+  "apmaterno_cli": "JARA",
+  "nombre_cli": "GABRIELA",
+  "email_cli": "gabriela.torres@zf.cl",
+  "telefono_cli": "+56970000006",
+  "fec_registro": "07/03/24",
+  "rut_cli": "12000006"
+},
+{
+  "_id": {
+    "$oid": "6919e8c9cad10fad4d100094"
+  },
+  "id_cliente": 1007,
+  "dvrut_cli": "1",
+  "appaterno_cli": "ARAYA",
+  "apmaterno_cli": "CAMPOS",
+  "nombre_cli": "HERNAN",
+  "email_cli": "hernan.araya@zf.cl",
+  "telefono_cli": "+56970000007",
+  "fec_registro": "08/03/24",
+  "rut_cli": "12000007"
+},
+{
+  "_id": {
+    "$oid": "6919e8facad10fad4d100095"
+  },
+  "id_cliente": 1008,
+  "dvrut_cli": "K",
+  "appaterno_cli": "CASTRO",
+  "apmaterno_cli": "NAVARRO",
+  "nombre_cli": "IGNACIA",
+  "email_cli": "ignacia.castro@zf.cl",
+  "telefono_cli": "+56970000008",
+  "fec_registro": "09/03/24",
+  "rut_cli": "12000008"
+},
+{
+  "_id": {
+    "$oid": "6919f05ecad10fad4d100096"
+  },
+  "id_cliente": 1009,
+  "dvrut_cli": "8",
+  "appaterno_cli": "VARGAS",
+  "apmaterno_cli": "VEGA",
+  "nombre_cli": "JAVIER",
+  "email_cli": "javier.vargas@zf.cl",
+  "telefono_cli": "+56970000009",
+  "fec_registro": "10/03/24",
+  "rut_cli": "12000009"
+},
+{
+  "_id": {
+    "$oid": "6919f078cad10fad4d100097"
+  },
+  "id_cliente": 1010,
+  "dvrut_cli": "1",
+  "appaterno_cli": "ROMERO",
+  "apmaterno_cli": "CORTES",
+  "nombre_cli": "KARINA",
+  "email_cli": "karina.romero@zf.cl",
+  "telefono_cli": "+56970000010",
+  "fec_registro": "11/03/24",
+  "rut_cli": "12000010"
+},
+{
+  "_id": {
+    "$oid": "6919f0afcad10fad4d100098"
+  },
+  "id_cliente": 1011,
+  "dvrut_cli": "K",
+  "appaterno_cli": "CONTRERAS",
+  "apmaterno_cli": "PIZARRO",
+  "nombre_cli": "LUIS",
+  "email_cli": "luis.contreras@zf.cl",
+  "telefono_cli": "+56970000011",
+  "fec_registro": "12/03/24",
+  "rut_cli": "12000011"
+},
+{
+  "_id": {
+    "$oid": "6919f0cbcad10fad4d100099"
+  },
+  "id_cliente": 1012,
+  "dvrut_cli": "8",
+  "appaterno_cli": "SILVA",
+  "apmaterno_cli": "LOPEZ",
+  "nombre_cli": "MATIAS",
+  "email_cli": "matias.silva@zf.cl",
+  "telefono_cli": "+56970000012",
+  "fec_registro": "13/03/24",
+  "rut_cli": "12000012"
+},
+{
+  "_id": {
+    "$oid": "6919f0f4cad10fad4d10009a"
+  },
+  "id_cliente": 1013,
+  "dvrut_cli": "6",
+  "appaterno_cli": "REYES",
+  "apmaterno_cli": "BUSTAMANTE",
+  "nombre_cli": "NATALIA",
+  "email_cli": "natalia.reyes@zf.cl",
+  "telefono_cli": "+56970000013",
+  "fec_registro": "14/03/24",
+  "rut_cli": "12000013"
+},
+{
+  "_id": {
+    "$oid": "6919f113cad10fad4d10009b"
+  },
+  "id_cliente": 1014,
+  "dvrut_cli": "4",
+  "appaterno_cli": "GUTIERREZ",
+  "apmaterno_cli": "MUNOZ",
+  "nombre_cli": "OSCAR",
+  "email_cli": "oscar.gutierrez@zf.cl",
+  "telefono_cli": "+56970000014",
+  "fec_registro": "15/03/24",
+  "rut_cli": "12000014"
+},
+{
+  "_id": {
+    "$oid": "6919f123cad10fad4d10009c"
+  },
+  "id_cliente": 1015,
+  "dvrut_cli": "2",
+  "appaterno_cli": "HERRERA",
+  "apmaterno_cli": "SOTO",
+  "nombre_cli": "PAULA",
+  "email_cli": "paula.herrera@zf.cl",
+  "telefono_cli": "+56970000015",
+  "fec_registro": "16/03/24",
+  "rut_cli": "12000015"
+},
+{
+  "_id": {
+    "$oid": "6919f13bcad10fad4d10009d"
+  },
+  "id_cliente": 1016,
+  "dvrut_cli": "0",
+  "appaterno_cli": "FLORES",
+  "apmaterno_cli": "CASTRO",
+  "nombre_cli": "QUERALT",
+  "email_cli": "queralt.flores@zf.cl",
+  "telefono_cli": "+56970000016",
+  "fec_registro": "17/03/24",
+  "rut_cli": "12000016"
+},
+{
+  "_id": {
+    "$oid": "6919f15fcad10fad4d10009e"
+  },
+  "id_cliente": 1017,
+  "dvrut_cli": "9",
+  "appaterno_cli": "VALENZUELA",
+  "apmaterno_cli": "CONTRERAS",
+  "nombre_cli": "RODRIGO",
+  "email_cli": "rodrigo.valenzuela@zf.cl",
+  "telefono_cli": "+56970000017",
+  "fec_registro": "18/03/24",
+  "rut_cli": "12000017"
+},
+{
+  "_id": {
+    "$oid": "6919f175cad10fad4d10009f"
+  },
+  "id_cliente": 1018,
+  "dvrut_cli": "7",
+  "appaterno_cli": "JARA",
+  "apmaterno_cli": "GUTIERREZ",
+  "nombre_cli": "SOFIA",
+  "email_cli": "sofia.jara@zf.cl",
+  "telefono_cli": "+56970000018",
+  "fec_registro": "19/03/24",
+  "rut_cli": "12000018"
+},
+{
+  "_id": {
+    "$oid": "6919f188cad10fad4d1000a0"
+  },
+  "id_cliente": 1019,
+  "dvrut_cli": "5",
+  "appaterno_cli": "VERGARA",
+  "apmaterno_cli": "VALENZUELA",
+  "nombre_cli": "TOMAS",
+  "email_cli": "tomas.vergara@zf.cl",
+  "telefono_cli": "+56970000019",
+  "fec_registro": "20/03/24",
+  "rut_cli": "12000019"
+},
+{
+  "_id": {
+    "$oid": "6919f1a0cad10fad4d1000a1"
+  },
+  "id_cliente": 1020,
+  "dvrut_cli": "9",
+  "appaterno_cli": "RIVERA",
+  "apmaterno_cli": "CAMPOS",
+  "nombre_cli": "ULISES",
+  "email_cli": "ulises.rivera@zf.cl",
+  "telefono_cli": "+56970000020",
+  "fec_registro": "21/03/24",
+  "rut_cli": "12000020"
+},
+{
+  "_id": {
+    "$oid": "6919f1b5cad10fad4d1000a2"
+  },
+  "id_cliente": 1021,
+  "dvrut_cli": "7",
+  "appaterno_cli": "CAMPOS",
+  "apmaterno_cli": "MORALES",
+  "nombre_cli": "VALENTINA",
+  "email_cli": "valentina.campos@zf.cl",
+  "telefono_cli": "+56970000021",
+  "fec_registro": "22/03/24",
+  "rut_cli": "12000021"
+},
+{
+  "_id": {
+    "$oid": "6919f1c8cad10fad4d1000a3"
+  },
+  "id_cliente": 1022,
+  "dvrut_cli": "5",
+  "appaterno_cli": "FIGUEROA",
+  "apmaterno_cli": "TAPIA",
+  "nombre_cli": "WALTER",
+  "email_cli": "walter.figueroa@zf.cl",
+  "telefono_cli": "+56970000022",
+  "fec_registro": "23/03/24",
+  "rut_cli": "12000022"
+},
+{
+  "_id": {
+    "$oid": "6919f1d3cad10fad4d1000a4"
+  },
+  "id_cliente": 1023,
+  "dvrut_cli": "3",
+  "appaterno_cli": "MORALES",
+  "apmaterno_cli": "AGUILERA",
+  "nombre_cli": "XIMENA",
+  "email_cli": "ximena.morales@zf.cl",
+  "telefono_cli": "+56970000023",
+  "fec_registro": "24/03/24",
+  "rut_cli": "12000023"
+},
+{
+  "_id": {
+    "$oid": "6919f1f3cad10fad4d1000a5"
+  },
+  "id_cliente": 1024,
+  "dvrut_cli": "1",
+  "appaterno_cli": "NAVARRO",
+  "apmaterno_cli": "ORTEGA",
+  "nombre_cli": "YOLANDA",
+  "email_cli": "yolanda.navarro@zf.cl",
+  "telefono_cli": "+56970000024",
+  "fec_registro": "25/03/24",
+  "rut_cli": "12000024"
+},
+{
+  "_id": {
+    "$oid": "6919f20fcad10fad4d1000a6"
+  },
+  "id_cliente": 1025,
+  "dvrut_cli": "K",
+  "appaterno_cli": "SALAZAR",
+  "apmaterno_cli": "NUNEZ",
+  "nombre_cli": "ZAIRA",
+  "email_cli": "zaira.salazar@zf.cl",
+  "telefono_cli": "+56970000025",
+  "fec_registro": "26/03/24",
+  "rut_cli": "12000025"
+},
+{
+  "_id": {
+    "$oid": "6919f22acad10fad4d1000a7"
+  },
+  "id_cliente": 1026,
+  "dvrut_cli": "8",
+  "appaterno_cli": "TAPIA",
+  "apmaterno_cli": "MENDOZA",
+  "nombre_cli": "ALONSO",
+  "email_cli": "alonso.tapia@zf.cl",
+  "telefono_cli": "+56970000026",
+  "fec_registro": "27/03/24",
+  "rut_cli": "12000026"
+},
+{
+  "_id": {
+    "$oid": "6919f249cad10fad4d1000a8"
+  },
+  "id_cliente": 1027,
+  "dvrut_cli": "6",
+  "appaterno_cli": "VEGA",
+  "apmaterno_cli": "GONZALEZ",
+  "nombre_cli": "BRENDA",
+  "email_cli": "brenda.vega@zf.cl",
+  "telefono_cli": "+56970000027",
+  "fec_registro": "28/03/24",
+  "rut_cli": "12000027"
+},
+{
+  "_id": {
+    "$oid": "6919f260cad10fad4d1000a9"
+  },
+  "id_cliente": 1028,
+  "dvrut_cli": "4",
+  "appaterno_cli": "MOLINA",
+  "apmaterno_cli": "DIAZ",
+  "nombre_cli": "CRISTOBAL",
+  "email_cli": "cristobal.molina@zf.cl",
+  "telefono_cli": "+56970000028",
+  "fec_registro": "29/03/24",
+  "rut_cli": "12000028"
+},
+{
+  "_id": {
+    "$oid": "6919f276cad10fad4d1000aa"
+  },
+  "id_cliente": 1029,
+  "dvrut_cli": "2",
+  "appaterno_cli": "AGUILERA",
+  "apmaterno_cli": "ARAYA",
+  "nombre_cli": "DANIELA",
+  "email_cli": "daniela.aguilera@zf.cl",
+  "telefono_cli": "+56970000029",
+  "fec_registro": "30/03/24",
+  "rut_cli": "12000029"
+},
+{
+  "_id": {
+    "$oid": "6919f291cad10fad4d1000ab"
+  },
+  "id_cliente": 1030,
+  "dvrut_cli": "6",
+  "appaterno_cli": "CORTES",
+  "apmaterno_cli": "ROMERO",
+  "nombre_cli": "ESTEBAN",
+  "email_cli": "esteban.cortes@zf.cl",
+  "telefono_cli": "+56970000030",
+  "fec_registro": "31/03/24",
+  "rut_cli": "12000030"
+},
+{
+  "_id": {
+    "$oid": "6919f2b8cad10fad4d1000ac"
+  },
+  "id_cliente": 1031,
+  "dvrut_cli": "4",
+  "appaterno_cli": "ORELLANA",
+  "apmaterno_cli": "REYES",
+  "nombre_cli": "FERNANDA",
+  "email_cli": "fernanda.orellana@zf.cl",
+  "telefono_cli": "+56970000031",
+  "fec_registro": "01/04/24",
+  "rut_cli": "12000031"
+},
+{
+  "_id": {
+    "$oid": "6919f2cbcad10fad4d1000ad"
+  },
+  "id_cliente": 1032,
+  "dvrut_cli": "2",
+  "appaterno_cli": "ORTEGA",
+  "apmaterno_cli": "FLORES",
+  "nombre_cli": "GONZALO",
+  "email_cli": "gonzalo.ortega@zf.cl",
+  "telefono_cli": "+56970000032",
+  "fec_registro": "02/04/24",
+  "rut_cli": "12000032"
+},
+{
+  "_id": {
+    "$oid": "6919f2d4cad10fad4d1000ae"
+  },
+  "id_cliente": 1033,
+  "dvrut_cli": "0",
+  "appaterno_cli": "PIZARRO",
+  "apmaterno_cli": "VERGARA",
+  "nombre_cli": "HELENA",
+  "email_cli": "helena.pizarro@zf.cl",
+  "telefono_cli": "+56970000033",
+  "fec_registro": "03/04/24",
+  "rut_cli": "12000033"
+},
+{
+  "_id": {
+    "$oid": "6919f2e8cad10fad4d1000af"
+  },
+  "id_cliente": 1034,
+  "dvrut_cli": "9",
+  "appaterno_cli": "CARRASCO",
+  "apmaterno_cli": "FIGUEROA",
+  "nombre_cli": "ISIDORA",
+  "email_cli": "isidora.carrasco@zf.cl",
+  "telefono_cli": "+56970000034",
+  "fec_registro": "04/04/24",
+  "rut_cli": "12000034"
+},
+{
+  "_id": {
+    "$oid": "6919f314cad10fad4d1000b1"
+  },
+  "id_cliente": 1035,
+  "dvrut_cli": "7",
+  "appaterno_cli": "NUNEZ",
+  "apmaterno_cli": "SALAZAR",
+  "nombre_cli": "JOAQUIN",
+  "email_cli": "joaquin.nunez@zf.cl",
+  "telefono_cli": "+56970000035",
+  "fec_registro": "05/04/24",
+  "rut_cli": "12000035"
+},
+{
+  "_id": {
+    "$oid": "6919f321cad10fad4d1000b2"
+  },
+  "id_cliente": 1036,
+  "dvrut_cli": "5",
+  "appaterno_cli": "LOPEZ",
+  "apmaterno_cli": "MOLINA",
+  "nombre_cli": "KATHERINE",
+  "email_cli": "katherine.lopez@zf.cl",
+  "telefono_cli": "+56970000036",
+  "fec_registro": "06/04/24",
+  "rut_cli": "12000036"
+},
+{
+  "_id": {
+    "$oid": "6919f336cad10fad4d1000b3"
+  },
+  "id_cliente": 1037,
+  "dvrut_cli": "3",
+  "appaterno_cli": "FUENTES",
+  "apmaterno_cli": "ORELLANA",
+  "nombre_cli": "LEONARDO",
+  "email_cli": "leonardo.fuentes@zf.cl",
+  "telefono_cli": "+56970000037",
+  "fec_registro": "07/04/24",
+  "rut_cli": "12000037"
+},
+{
+  "_id": {
+    "$oid": "6919f353cad10fad4d1000b4"
+  },
+  "id_cliente": 1038,
+  "dvrut_cli": "1",
+  "appaterno_cli": "MENDOZA",
+  "apmaterno_cli": "CARRASCO",
+  "nombre_cli": "MARIA",
+  "email_cli": "maria.mendoza@zf.cl",
+  "telefono_cli": "+56970000038",
+  "fec_registro": "08/04/24",
+  "rut_cli": "12000038"
+},
+{
+  "_id": {
+    "$oid": "6919f36ecad10fad4d1000b5"
+  },
+  "id_cliente": 1039,
+  "dvrut_cli": "K",
+  "appaterno_cli": "BUSTAMANTE",
+  "apmaterno_cli": "FUENTES",
+  "nombre_cli": "NICOLAS",
+  "email_cli": "nicolas.bustamante@zf.cl",
+  "telefono_cli": "+56970000039",
+  "fec_registro": "09/04/24",
+  "rut_cli": "12000039"
+},
+{
+  "_id": {
+    "$oid": "6919f381cad10fad4d1000b6"
+  },
+  "id_cliente": 1040,
+  "dvrut_cli": "3",
+  "appaterno_cli": "PEREZ",
+  "apmaterno_cli": "GONZALEZ",
+  "nombre_cli": "OLIVIA",
+  "email_cli": "olivia.perez@zf.cl",
+  "telefono_cli": "+56970000040",
+  "fec_registro": "10/04/24",
+  "rut_cli": "12000040"
+},
+{
+  "_id": {
+    "$oid": "6919f39ccad10fad4d1000b7"
+  },
+  "id_cliente": 1041,
+  "dvrut_cli": "1",
+  "appaterno_cli": "GONZALEZ",
+  "apmaterno_cli": "ROJAS",
+  "nombre_cli": "PABLO",
+  "email_cli": "pablo.gonzalez@zf.cl",
+  "telefono_cli": "+56970000041",
+  "fec_registro": "11/04/24",
+  "rut_cli": "12000041"
+}]
+
