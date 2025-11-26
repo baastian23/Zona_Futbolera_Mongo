@@ -1,0 +1,1100 @@
+[{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5650"
+  },
+  "id_inventario": 1,
+  "id_producto": 1,
+  "stock": 8,
+  "stock_minimo": 6,
+  "ubicacion": "A-01",
+  "fecha_actualizacion": "2024-06-02"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5651"
+  },
+  "id_inventario": 2,
+  "id_producto": 2,
+  "stock": 11,
+  "stock_minimo": 7,
+  "ubicacion": "B-01",
+  "fecha_actualizacion": "2024-06-03"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5652"
+  },
+  "id_inventario": 3,
+  "id_producto": 3,
+  "stock": 14,
+  "stock_minimo": 8,
+  "ubicacion": "C-01",
+  "fecha_actualizacion": "2024-06-04"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5653"
+  },
+  "id_inventario": 4,
+  "id_producto": 4,
+  "stock": 17,
+  "stock_minimo": 9,
+  "ubicacion": "D-01",
+  "fecha_actualizacion": "2024-06-05"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5654"
+  },
+  "id_inventario": 5,
+  "id_producto": 5,
+  "stock": 20,
+  "stock_minimo": 10,
+  "ubicacion": "E-01",
+  "fecha_actualizacion": "2024-06-06"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5655"
+  },
+  "id_inventario": 6,
+  "id_producto": 6,
+  "stock": 23,
+  "stock_minimo": 11,
+  "ubicacion": "F-01",
+  "fecha_actualizacion": "2024-06-07"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5656"
+  },
+  "id_inventario": 7,
+  "id_producto": 7,
+  "stock": 26,
+  "stock_minimo": 12,
+  "ubicacion": "G-01",
+  "fecha_actualizacion": "2024-06-08"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5657"
+  },
+  "id_inventario": 8,
+  "id_producto": 8,
+  "stock": 29,
+  "stock_minimo": 13,
+  "ubicacion": "H-01",
+  "fecha_actualizacion": "2024-06-09"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5658"
+  },
+  "id_inventario": 9,
+  "id_producto": 9,
+  "stock": 32,
+  "stock_minimo": 14,
+  "ubicacion": "A-02",
+  "fecha_actualizacion": "2024-06-10"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5659"
+  },
+  "id_inventario": 10,
+  "id_producto": 10,
+  "stock": 35,
+  "stock_minimo": 15,
+  "ubicacion": "B-02",
+  "fecha_actualizacion": "2024-06-11"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc565a"
+  },
+  "id_inventario": 11,
+  "id_producto": 11,
+  "stock": 38,
+  "stock_minimo": 16,
+  "ubicacion": "C-02",
+  "fecha_actualizacion": "2024-06-12"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc565b"
+  },
+  "id_inventario": 12,
+  "id_producto": 12,
+  "stock": 41,
+  "stock_minimo": 17,
+  "ubicacion": "D-02",
+  "fecha_actualizacion": "2024-06-13"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc565c"
+  },
+  "id_inventario": 13,
+  "id_producto": 13,
+  "stock": 44,
+  "stock_minimo": 18,
+  "ubicacion": "E-02",
+  "fecha_actualizacion": "2024-06-14"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc565d"
+  },
+  "id_inventario": 14,
+  "id_producto": 14,
+  "stock": 47,
+  "stock_minimo": 19,
+  "ubicacion": "F-02",
+  "fecha_actualizacion": "2024-06-15"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc565e"
+  },
+  "id_inventario": 15,
+  "id_producto": 15,
+  "stock": 50,
+  "stock_minimo": 20,
+  "ubicacion": "G-02",
+  "fecha_actualizacion": "2024-06-16"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc565f"
+  },
+  "id_inventario": 16,
+  "id_producto": 16,
+  "stock": 53,
+  "stock_minimo": 5,
+  "ubicacion": "H-02",
+  "fecha_actualizacion": "2024-06-17"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5660"
+  },
+  "id_inventario": 17,
+  "id_producto": 17,
+  "stock": 56,
+  "stock_minimo": 6,
+  "ubicacion": "A-03",
+  "fecha_actualizacion": "2024-06-18"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5661"
+  },
+  "id_inventario": 18,
+  "id_producto": 18,
+  "stock": 59,
+  "stock_minimo": 7,
+  "ubicacion": "B-03",
+  "fecha_actualizacion": "2024-06-19"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5662"
+  },
+  "id_inventario": 19,
+  "id_producto": 19,
+  "stock": 62,
+  "stock_minimo": 8,
+  "ubicacion": "C-03",
+  "fecha_actualizacion": "2024-06-20"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5663"
+  },
+  "id_inventario": 20,
+  "id_producto": 20,
+  "stock": 65,
+  "stock_minimo": 9,
+  "ubicacion": "D-03",
+  "fecha_actualizacion": "2024-06-21"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5664"
+  },
+  "id_inventario": 21,
+  "id_producto": 21,
+  "stock": 68,
+  "stock_minimo": 10,
+  "ubicacion": "E-03",
+  "fecha_actualizacion": "2024-06-22"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5665"
+  },
+  "id_inventario": 22,
+  "id_producto": 22,
+  "stock": 71,
+  "stock_minimo": 11,
+  "ubicacion": "F-03",
+  "fecha_actualizacion": "2024-06-23"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5666"
+  },
+  "id_inventario": 23,
+  "id_producto": 23,
+  "stock": 74,
+  "stock_minimo": 12,
+  "ubicacion": "G-03",
+  "fecha_actualizacion": "2024-06-24"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5667"
+  },
+  "id_inventario": 24,
+  "id_producto": 24,
+  "stock": 77,
+  "stock_minimo": 13,
+  "ubicacion": "H-03",
+  "fecha_actualizacion": "2024-06-25"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5668"
+  },
+  "id_inventario": 25,
+  "id_producto": 25,
+  "stock": 80,
+  "stock_minimo": 14,
+  "ubicacion": "A-04",
+  "fecha_actualizacion": "2024-06-26"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5669"
+  },
+  "id_inventario": 26,
+  "id_producto": 26,
+  "stock": 83,
+  "stock_minimo": 15,
+  "ubicacion": "B-04",
+  "fecha_actualizacion": "2024-06-27"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc566a"
+  },
+  "id_inventario": 27,
+  "id_producto": 27,
+  "stock": 86,
+  "stock_minimo": 16,
+  "ubicacion": "C-04",
+  "fecha_actualizacion": "2024-06-28"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc566b"
+  },
+  "id_inventario": 28,
+  "id_producto": 28,
+  "stock": 89,
+  "stock_minimo": 17,
+  "ubicacion": "D-04",
+  "fecha_actualizacion": "2024-06-29"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc566c"
+  },
+  "id_inventario": 29,
+  "id_producto": 29,
+  "stock": 92,
+  "stock_minimo": 18,
+  "ubicacion": "E-04",
+  "fecha_actualizacion": "2024-06-30"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc566d"
+  },
+  "id_inventario": 30,
+  "id_producto": 30,
+  "stock": 95,
+  "stock_minimo": 19,
+  "ubicacion": "F-04",
+  "fecha_actualizacion": "2024-06-01"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc566e"
+  },
+  "id_inventario": 31,
+  "id_producto": 31,
+  "stock": 98,
+  "stock_minimo": 20,
+  "ubicacion": "G-04",
+  "fecha_actualizacion": "2024-06-02"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc566f"
+  },
+  "id_inventario": 32,
+  "id_producto": 32,
+  "stock": 5,
+  "stock_minimo": 5,
+  "ubicacion": "H-04",
+  "fecha_actualizacion": "2024-06-03"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5670"
+  },
+  "id_inventario": 33,
+  "id_producto": 33,
+  "stock": 8,
+  "stock_minimo": 6,
+  "ubicacion": "A-05",
+  "fecha_actualizacion": "2024-06-04"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5671"
+  },
+  "id_inventario": 34,
+  "id_producto": 34,
+  "stock": 11,
+  "stock_minimo": 7,
+  "ubicacion": "B-05",
+  "fecha_actualizacion": "2024-06-05"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5672"
+  },
+  "id_inventario": 35,
+  "id_producto": 35,
+  "stock": 14,
+  "stock_minimo": 8,
+  "ubicacion": "C-05",
+  "fecha_actualizacion": "2024-06-06"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5673"
+  },
+  "id_inventario": 36,
+  "id_producto": 36,
+  "stock": 17,
+  "stock_minimo": 9,
+  "ubicacion": "D-05",
+  "fecha_actualizacion": "2024-06-07"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5674"
+  },
+  "id_inventario": 37,
+  "id_producto": 37,
+  "stock": 20,
+  "stock_minimo": 10,
+  "ubicacion": "E-05",
+  "fecha_actualizacion": "2024-06-08"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5675"
+  },
+  "id_inventario": 38,
+  "id_producto": 38,
+  "stock": 23,
+  "stock_minimo": 11,
+  "ubicacion": "F-05",
+  "fecha_actualizacion": "2024-06-09"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5676"
+  },
+  "id_inventario": 39,
+  "id_producto": 39,
+  "stock": 26,
+  "stock_minimo": 12,
+  "ubicacion": "G-05",
+  "fecha_actualizacion": "2024-06-10"
+},
+{
+  "_id": {
+    "$oid": "691a2011735ce4dd20dc5677"
+  },
+  "id_inventario": 40,
+  "id_producto": 40,
+  "stock": 29,
+  "stock_minimo": 13,
+  "ubicacion": "H-05",
+  "fecha_actualizacion": "2024-06-11"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5679"
+  },
+  "id_inventario": 41,
+  "id_producto": 41,
+  "stock": 32,
+  "stock_minimo": 14,
+  "ubicacion": "A-06",
+  "fecha_actualizacion": "2024-06-12"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc567a"
+  },
+  "id_inventario": 42,
+  "id_producto": 42,
+  "stock": 35,
+  "stock_minimo": 15,
+  "ubicacion": "B-06",
+  "fecha_actualizacion": "2024-06-13"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc567b"
+  },
+  "id_inventario": 43,
+  "id_producto": 43,
+  "stock": 38,
+  "stock_minimo": 16,
+  "ubicacion": "C-06",
+  "fecha_actualizacion": "2024-06-14"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc567c"
+  },
+  "id_inventario": 44,
+  "id_producto": 44,
+  "stock": 41,
+  "stock_minimo": 17,
+  "ubicacion": "D-06",
+  "fecha_actualizacion": "2024-06-15"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc567d"
+  },
+  "id_inventario": 45,
+  "id_producto": 45,
+  "stock": 44,
+  "stock_minimo": 18,
+  "ubicacion": "E-06",
+  "fecha_actualizacion": "2024-06-16"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc567e"
+  },
+  "id_inventario": 46,
+  "id_producto": 46,
+  "stock": 47,
+  "stock_minimo": 19,
+  "ubicacion": "F-06",
+  "fecha_actualizacion": "2024-06-17"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc567f"
+  },
+  "id_inventario": 47,
+  "id_producto": 47,
+  "stock": 50,
+  "stock_minimo": 20,
+  "ubicacion": "G-06",
+  "fecha_actualizacion": "2024-06-18"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5680"
+  },
+  "id_inventario": 48,
+  "id_producto": 48,
+  "stock": 53,
+  "stock_minimo": 5,
+  "ubicacion": "H-06",
+  "fecha_actualizacion": "2024-06-19"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5681"
+  },
+  "id_inventario": 49,
+  "id_producto": 49,
+  "stock": 56,
+  "stock_minimo": 6,
+  "ubicacion": "A-07",
+  "fecha_actualizacion": "2024-06-20"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5682"
+  },
+  "id_inventario": 50,
+  "id_producto": 50,
+  "stock": 59,
+  "stock_minimo": 7,
+  "ubicacion": "B-07",
+  "fecha_actualizacion": "2024-06-21"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5683"
+  },
+  "id_inventario": 51,
+  "id_producto": 51,
+  "stock": 62,
+  "stock_minimo": 8,
+  "ubicacion": "C-07",
+  "fecha_actualizacion": "2024-06-22"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5684"
+  },
+  "id_inventario": 52,
+  "id_producto": 52,
+  "stock": 65,
+  "stock_minimo": 9,
+  "ubicacion": "D-07",
+  "fecha_actualizacion": "2024-06-23"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5685"
+  },
+  "id_inventario": 53,
+  "id_producto": 53,
+  "stock": 68,
+  "stock_minimo": 10,
+  "ubicacion": "E-07",
+  "fecha_actualizacion": "2024-06-24"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5686"
+  },
+  "id_inventario": 54,
+  "id_producto": 54,
+  "stock": 71,
+  "stock_minimo": 11,
+  "ubicacion": "F-07",
+  "fecha_actualizacion": "2024-06-25"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5687"
+  },
+  "id_inventario": 55,
+  "id_producto": 55,
+  "stock": 74,
+  "stock_minimo": 12,
+  "ubicacion": "G-07",
+  "fecha_actualizacion": "2024-06-26"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5688"
+  },
+  "id_inventario": 56,
+  "id_producto": 56,
+  "stock": 77,
+  "stock_minimo": 13,
+  "ubicacion": "H-07",
+  "fecha_actualizacion": "2024-06-27"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5689"
+  },
+  "id_inventario": 57,
+  "id_producto": 57,
+  "stock": 80,
+  "stock_minimo": 14,
+  "ubicacion": "A-08",
+  "fecha_actualizacion": "2024-06-28"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc568a"
+  },
+  "id_inventario": 58,
+  "id_producto": 58,
+  "stock": 83,
+  "stock_minimo": 15,
+  "ubicacion": "B-08",
+  "fecha_actualizacion": "2024-06-29"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc568b"
+  },
+  "id_inventario": 59,
+  "id_producto": 59,
+  "stock": 86,
+  "stock_minimo": 16,
+  "ubicacion": "C-08",
+  "fecha_actualizacion": "2024-06-30"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc568c"
+  },
+  "id_inventario": 60,
+  "id_producto": 60,
+  "stock": 89,
+  "stock_minimo": 17,
+  "ubicacion": "D-08",
+  "fecha_actualizacion": "2024-06-01"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc568d"
+  },
+  "id_inventario": 61,
+  "id_producto": 61,
+  "stock": 92,
+  "stock_minimo": 18,
+  "ubicacion": "E-08",
+  "fecha_actualizacion": "2024-06-02"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc568e"
+  },
+  "id_inventario": 62,
+  "id_producto": 62,
+  "stock": 95,
+  "stock_minimo": 19,
+  "ubicacion": "F-08",
+  "fecha_actualizacion": "2024-06-03"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc568f"
+  },
+  "id_inventario": 63,
+  "id_producto": 63,
+  "stock": 98,
+  "stock_minimo": 20,
+  "ubicacion": "G-08",
+  "fecha_actualizacion": "2024-06-04"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5690"
+  },
+  "id_inventario": 64,
+  "id_producto": 64,
+  "stock": 5,
+  "stock_minimo": 5,
+  "ubicacion": "H-08",
+  "fecha_actualizacion": "2024-06-05"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5691"
+  },
+  "id_inventario": 65,
+  "id_producto": 65,
+  "stock": 8,
+  "stock_minimo": 6,
+  "ubicacion": "A-09",
+  "fecha_actualizacion": "2024-06-06"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5692"
+  },
+  "id_inventario": 66,
+  "id_producto": 66,
+  "stock": 11,
+  "stock_minimo": 7,
+  "ubicacion": "B-09",
+  "fecha_actualizacion": "2024-06-07"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5693"
+  },
+  "id_inventario": 67,
+  "id_producto": 67,
+  "stock": 14,
+  "stock_minimo": 8,
+  "ubicacion": "C-09",
+  "fecha_actualizacion": "2024-06-08"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5694"
+  },
+  "id_inventario": 68,
+  "id_producto": 68,
+  "stock": 17,
+  "stock_minimo": 9,
+  "ubicacion": "D-09",
+  "fecha_actualizacion": "2024-06-09"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5695"
+  },
+  "id_inventario": 69,
+  "id_producto": 69,
+  "stock": 20,
+  "stock_minimo": 10,
+  "ubicacion": "E-09",
+  "fecha_actualizacion": "2024-06-10"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5696"
+  },
+  "id_inventario": 70,
+  "id_producto": 70,
+  "stock": 23,
+  "stock_minimo": 11,
+  "ubicacion": "F-09",
+  "fecha_actualizacion": "2024-06-11"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5697"
+  },
+  "id_inventario": 71,
+  "id_producto": 71,
+  "stock": 26,
+  "stock_minimo": 12,
+  "ubicacion": "G-09",
+  "fecha_actualizacion": "2024-06-12"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5698"
+  },
+  "id_inventario": 72,
+  "id_producto": 72,
+  "stock": 29,
+  "stock_minimo": 13,
+  "ubicacion": "H-09",
+  "fecha_actualizacion": "2024-06-13"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc5699"
+  },
+  "id_inventario": 73,
+  "id_producto": 73,
+  "stock": 32,
+  "stock_minimo": 14,
+  "ubicacion": "A-10",
+  "fecha_actualizacion": "2024-06-14"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc569a"
+  },
+  "id_inventario": 74,
+  "id_producto": 74,
+  "stock": 35,
+  "stock_minimo": 15,
+  "ubicacion": "B-10",
+  "fecha_actualizacion": "2024-06-15"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc569b"
+  },
+  "id_inventario": 75,
+  "id_producto": 75,
+  "stock": 38,
+  "stock_minimo": 16,
+  "ubicacion": "C-10",
+  "fecha_actualizacion": "2024-06-16"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc569c"
+  },
+  "id_inventario": 76,
+  "id_producto": 76,
+  "stock": 41,
+  "stock_minimo": 17,
+  "ubicacion": "D-10",
+  "fecha_actualizacion": "2024-06-17"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc569d"
+  },
+  "id_inventario": 77,
+  "id_producto": 77,
+  "stock": 44,
+  "stock_minimo": 18,
+  "ubicacion": "E-10",
+  "fecha_actualizacion": "2024-06-18"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc569e"
+  },
+  "id_inventario": 78,
+  "id_producto": 78,
+  "stock": 47,
+  "stock_minimo": 19,
+  "ubicacion": "F-10",
+  "fecha_actualizacion": "2024-06-19"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc569f"
+  },
+  "id_inventario": 79,
+  "id_producto": 79,
+  "stock": 50,
+  "stock_minimo": 20,
+  "ubicacion": "G-10",
+  "fecha_actualizacion": "2024-06-20"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56a0"
+  },
+  "id_inventario": 80,
+  "id_producto": 80,
+  "stock": 53,
+  "stock_minimo": 5,
+  "ubicacion": "H-10",
+  "fecha_actualizacion": "2024-06-21"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56a1"
+  },
+  "id_inventario": 81,
+  "id_producto": 81,
+  "stock": 56,
+  "stock_minimo": 6,
+  "ubicacion": "A-11",
+  "fecha_actualizacion": "2024-06-22"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56a2"
+  },
+  "id_inventario": 82,
+  "id_producto": 82,
+  "stock": 59,
+  "stock_minimo": 7,
+  "ubicacion": "B-11",
+  "fecha_actualizacion": "2024-06-23"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56a3"
+  },
+  "id_inventario": 83,
+  "id_producto": 83,
+  "stock": 62,
+  "stock_minimo": 8,
+  "ubicacion": "C-11",
+  "fecha_actualizacion": "2024-06-24"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56a4"
+  },
+  "id_inventario": 84,
+  "id_producto": 84,
+  "stock": 65,
+  "stock_minimo": 9,
+  "ubicacion": "D-11",
+  "fecha_actualizacion": "2024-06-25"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56a5"
+  },
+  "id_inventario": 85,
+  "id_producto": 85,
+  "stock": 68,
+  "stock_minimo": 10,
+  "ubicacion": "E-11",
+  "fecha_actualizacion": "2024-06-26"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56a6"
+  },
+  "id_inventario": 86,
+  "id_producto": 86,
+  "stock": 71,
+  "stock_minimo": 11,
+  "ubicacion": "F-11",
+  "fecha_actualizacion": "2024-06-27"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56a7"
+  },
+  "id_inventario": 87,
+  "id_producto": 87,
+  "stock": 74,
+  "stock_minimo": 12,
+  "ubicacion": "G-11",
+  "fecha_actualizacion": "2024-06-28"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56a8"
+  },
+  "id_inventario": 88,
+  "id_producto": 88,
+  "stock": 77,
+  "stock_minimo": 13,
+  "ubicacion": "H-11",
+  "fecha_actualizacion": "2024-06-29"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56a9"
+  },
+  "id_inventario": 89,
+  "id_producto": 89,
+  "stock": 80,
+  "stock_minimo": 14,
+  "ubicacion": "A-12",
+  "fecha_actualizacion": "2024-06-30"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56aa"
+  },
+  "id_inventario": 90,
+  "id_producto": 90,
+  "stock": 83,
+  "stock_minimo": 15,
+  "ubicacion": "B-12",
+  "fecha_actualizacion": "2024-06-01"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56ab"
+  },
+  "id_inventario": 91,
+  "id_producto": 91,
+  "stock": 86,
+  "stock_minimo": 16,
+  "ubicacion": "C-12",
+  "fecha_actualizacion": "2024-06-02"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56ac"
+  },
+  "id_inventario": 92,
+  "id_producto": 92,
+  "stock": 89,
+  "stock_minimo": 17,
+  "ubicacion": "D-12",
+  "fecha_actualizacion": "2024-06-03"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56ad"
+  },
+  "id_inventario": 93,
+  "id_producto": 93,
+  "stock": 92,
+  "stock_minimo": 18,
+  "ubicacion": "E-12",
+  "fecha_actualizacion": "2024-06-04"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56ae"
+  },
+  "id_inventario": 94,
+  "id_producto": 94,
+  "stock": 95,
+  "stock_minimo": 19,
+  "ubicacion": "F-12",
+  "fecha_actualizacion": "2024-06-05"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56af"
+  },
+  "id_inventario": 95,
+  "id_producto": 95,
+  "stock": 98,
+  "stock_minimo": 20,
+  "ubicacion": "G-12",
+  "fecha_actualizacion": "2024-06-06"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56b0"
+  },
+  "id_inventario": 96,
+  "id_producto": 96,
+  "stock": 5,
+  "stock_minimo": 5,
+  "ubicacion": "H-12",
+  "fecha_actualizacion": "2024-06-07"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56b1"
+  },
+  "id_inventario": 97,
+  "id_producto": 97,
+  "stock": 8,
+  "stock_minimo": 6,
+  "ubicacion": "A-13",
+  "fecha_actualizacion": "2024-06-08"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56b2"
+  },
+  "id_inventario": 98,
+  "id_producto": 98,
+  "stock": 11,
+  "stock_minimo": 7,
+  "ubicacion": "B-13",
+  "fecha_actualizacion": "2024-06-09"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56b3"
+  },
+  "id_inventario": 99,
+  "id_producto": 99,
+  "stock": 14,
+  "stock_minimo": 8,
+  "ubicacion": "C-13",
+  "fecha_actualizacion": "2024-06-10"
+},
+{
+  "_id": {
+    "$oid": "691a2021735ce4dd20dc56b4"
+  },
+  "id_inventario": 100,
+  "id_producto": 100,
+  "stock": 17,
+  "stock_minimo": 9,
+  "ubicacion": "D-13",
+  "fecha_actualizacion": "2024-06-11"
+}]
