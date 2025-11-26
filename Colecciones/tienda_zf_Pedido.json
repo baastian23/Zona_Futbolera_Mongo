@@ -1,0 +1,738 @@
+[{
+  "_id": {
+    "$oid": "6919f67bcad10fad4d1000c4"
+  },
+  "id_pedido": 1,
+  "id_cliente": 1000,
+  "fecha_pedido": "25/10/25",
+  "estado": "PAGADO",
+  "subtotal": 5777,
+  "impuesto": 109763,
+  "envio": 2990,
+  "descuento": 2000,
+  "total_estimado": 116530,
+  "id_promocion": 1
+},
+{
+  "_id": {
+    "$oid": "6919f90ccad10fad4d1000c5"
+  },
+  "id_pedido": 2,
+  "id_cliente": 1001,
+  "fecha_pedido": "03/06/24",
+  "estado": "PAGADO",
+  "subtotal": 6554,
+  "impuesto": 124526,
+  "envio": 2990,
+  "descuento": 6554,
+  "total_estimado": 127516,
+  "id_promocion": 2
+},
+{
+  "_id": {
+    "$oid": "6919f95acad10fad4d1000c6"
+  },
+  "id_pedido": 3,
+  "id_cliente": 1002,
+  "fecha_pedido": "04/06/24",
+  "estado": "ENVIADO",
+  "subtotal": 7331,
+  "impuesto": 139289,
+  "envio": 0,
+  "descuento": 5000,
+  "total_estimado": 141620,
+  "id_promocion": 3
+},
+{
+  "_id": {
+    "$oid": "6919fda1cad10fad4d1000c7"
+  },
+  "id_pedido": 4,
+  "id_cliente": 1003,
+  "fecha_pedido": "05/06/24",
+  "estado": "PAGADO",
+  "subtotal": 8108,
+  "impuesto": 154052,
+  "envio": 2990,
+  "descuento": 0,
+  "total_estimado": 165150
+},
+{
+  "_id": {
+    "$oid": "691a02d7cad10fad4d1000ca"
+  },
+  "id_pedido": 5,
+  "id_cliente": 1004,
+  "fecha_pedido": "06/06/24",
+  "estado": "PENDIENTE",
+  "subtotal": 8885,
+  "impuesto": 168815,
+  "envio": 2990,
+  "descuento": 2000,
+  "total_estimado": 178690,
+  "id_promocion": 5
+},
+{
+  "_id": {
+    "$oid": "691a02edcad10fad4d1000cb"
+  },
+  "id_pedido": 6,
+  "id_cliente": 1005,
+  "fecha_pedido": "07/06/24",
+  "estado": "PAGADO",
+  "subtotal": 9662,
+  "impuesto": 183578,
+  "envio": 0,
+  "descuento": 24155,
+  "total_estimado": 169085,
+  "id_promocion": 6
+},
+{
+  "_id": {
+    "$oid": "691a02f9cad10fad4d1000cc"
+  },
+  "id_pedido": 7,
+  "id_cliente": 1006,
+  "fecha_pedido": "08/06/24",
+  "estado": "ENVIADO",
+  "subtotal": 10439,
+  "impuesto": 198341,
+  "envio": 2990,
+  "descuento": 5000,
+  "total_estimado": 206770,
+  "id_promocion": 7
+},
+{
+  "_id": {
+    "$oid": "691a0321cad10fad4d1000cd"
+  },
+  "id_pedido": 8,
+  "id_cliente": 1007,
+  "fecha_pedido": "09/06/24",
+  "estado": "PAGADO",
+  "subtotal": 11216,
+  "impuesto": 213104,
+  "envio": 2990,
+  "descuento": 0,
+  "total_estimado": 227310
+},
+{
+  "_id": {
+    "$oid": "691a0355cad10fad4d1000cf"
+  },
+  "id_pedido": 9,
+  "id_cliente": 1008,
+  "fecha_pedido": "10/06/24",
+  "estado": "PENDIENTE",
+  "subtotal": 11993,
+  "impuesto": 227867,
+  "envio": 0,
+  "descuento": 2000,
+  "total_estimado": 237860,
+  "id_promocion": 9
+},
+{
+  "_id": {
+    "$oid": "691a0364cad10fad4d1000d0"
+  },
+  "id_pedido": 10,
+  "id_cliente": 1009,
+  "fecha_pedido": "11/06/24",
+  "estado": "PAGADO",
+  "subtotal": 12770,
+  "impuesto": 24263,
+  "envio": 2990,
+  "descuento": 15324,
+  "total_estimado": 24699,
+  "id_promocion": 10
+},
+{
+  "_id": {
+    "$oid": "691a0382cad10fad4d1000d1"
+  },
+  "id_pedido": 11,
+  "id_cliente": 1010,
+  "fecha_pedido": "12/06/24",
+  "estado": "ENVIADO",
+  "subtotal": 13547,
+  "impuesto": 257393,
+  "envio": 2990,
+  "descuento": 5000,
+  "total_estimado": 268930,
+  "id_promocion": 11
+},
+{
+  "_id": {
+    "$oid": "691a039ccad10fad4d1000d2"
+  },
+  "id_pedido": 12,
+  "id_cliente": 1011,
+  "fecha_pedido": "13/06/24",
+  "estado": "PAGADO",
+  "subtotal": 14324,
+  "impuesto": 272156,
+  "envio": 0,
+  "descuento": 0,
+  "total_estimado": 286480
+},
+{
+  "_id": {
+    "$oid": "691a03d7cad10fad4d1000d4"
+  },
+  "id_pedido": 13,
+  "id_cliente": 1012,
+  "fecha_pedido": "14/06/24",
+  "estado": "PENDIENTE",
+  "subtotal": 15101,
+  "impuesto": 286919,
+  "envio": 2990,
+  "descuento": 2000,
+  "total_estimado": 303010,
+  "id_promocion": 13
+},
+{
+  "_id": {
+    "$oid": "691a03f5cad10fad4d1000d5"
+  },
+  "id_pedido": 14,
+  "id_cliente": 1013,
+  "fecha_pedido": "15/06/24",
+  "estado": "PAGADO",
+  "subtotal": 15878,
+  "impuesto": 301682,
+  "envio": 2990,
+  "descuento": 7939,
+  "total_estimado": 312611,
+  "id_promocion": 14
+},
+{
+  "_id": {
+    "$oid": "691a0400cad10fad4d1000d6"
+  },
+  "id_pedido": 15,
+  "id_cliente": 1014,
+  "fecha_pedido": "16/06/24",
+  "estado": "ENVIADO",
+  "subtotal": 16655,
+  "impuesto": 316445,
+  "envio": 0,
+  "descuento": 5000,
+  "total_estimado": 328100,
+  "id_promocion": 15
+},
+{
+  "_id": {
+    "$oid": "691a041ecad10fad4d1000d7"
+  },
+  "id_pedido": 16,
+  "id_cliente": 1015,
+  "fecha_pedido": "17/06/24",
+  "estado": "PAGADO",
+  "subtotal": 17432,
+  "impuesto": 331208,
+  "envio": 2990,
+  "descuento": 0,
+  "total_estimado": 351630
+},
+{
+  "_id": {
+    "$oid": "691a0434cad10fad4d1000d8"
+  },
+  "id_pedido": 17,
+  "id_cliente": 1016,
+  "fecha_pedido": "18/06/24",
+  "estado": "PENDIENTE",
+  "subtotal": 18209,
+  "impuesto": 345971,
+  "envio": 2990,
+  "descuento": 2000,
+  "total_estimado": 365170,
+  "id_promocion": 17
+},
+{
+  "_id": {
+    "$oid": "691a0447cad10fad4d1000d9"
+  },
+  "id_pedido": 18,
+  "id_cliente": 1017,
+  "fecha_pedido": "19/06/24",
+  "estado": "PAGADO",
+  "subtotal": 18986,
+  "impuesto": 360734,
+  "envio": 0,
+  "descuento": 28479,
+  "total_estimado": 351241,
+  "id_promocion": 18
+},
+{
+  "_id": {
+    "$oid": "691a0453cad10fad4d1000da"
+  },
+  "id_pedido": 19,
+  "id_cliente": 1018,
+  "fecha_pedido": "20/06/24",
+  "estado": "ENVIADO",
+  "subtotal": 19763,
+  "impuesto": 375497,
+  "envio": 2990,
+  "descuento": 5000,
+  "total_estimado": 393250,
+  "id_promocion": 19
+},
+{
+  "_id": {
+    "$oid": "691a0462cad10fad4d1000db"
+  },
+  "id_pedido": 20,
+  "id_cliente": 1019,
+  "fecha_pedido": "21/06/24",
+  "estado": "PAGADO",
+  "subtotal": 20540,
+  "impuesto": 39026,
+  "envio": 2990,
+  "descuento": 0,
+  "total_estimado": 62556
+},
+{
+  "_id": {
+    "$oid": "691a0470cad10fad4d1000dc"
+  },
+  "id_pedido": 21,
+  "id_cliente": 1020,
+  "fecha_pedido": "22/06/24",
+  "estado": "PENDIENTE",
+  "subtotal": 21317,
+  "impuesto": 405023,
+  "envio": 0,
+  "descuento": 2000,
+  "total_estimado": 424340,
+  "id_promocion": 21
+},
+{
+  "_id": {
+    "$oid": "691a047ecad10fad4d1000dd"
+  },
+  "id_pedido": 22,
+  "id_cliente": 1021,
+  "fecha_pedido": "23/06/24",
+  "estado": "PAGADO",
+  "subtotal": 22094,
+  "impuesto": 419786,
+  "envio": 2990,
+  "descuento": 154658,
+  "total_estimado": 290212,
+  "id_promocion": 22
+},
+{
+  "_id": {
+    "$oid": "691a048ccad10fad4d1000de"
+  },
+  "id_pedido": 23,
+  "id_cliente": 1022,
+  "fecha_pedido": "24/06/24",
+  "estado": "ENVIADO",
+  "subtotal": 22871,
+  "impuesto": 434549,
+  "envio": 2990,
+  "descuento": 5000,
+  "total_estimado": 455410,
+  "id_promocion": 23
+},
+{
+  "_id": {
+    "$oid": "691a049acad10fad4d1000df"
+  },
+  "id_pedido": 24,
+  "id_cliente": 1023,
+  "fecha_pedido": "25/06/24",
+  "estado": "PAGADO",
+  "subtotal": 23648,
+  "impuesto": 449312,
+  "envio": 0,
+  "descuento": 0,
+  "total_estimado": 472960
+},
+{
+  "_id": {
+    "$oid": "691a04a7cad10fad4d1000e0"
+  },
+  "id_pedido": 25,
+  "id_cliente": 1024,
+  "fecha_pedido": "26/06/24",
+  "estado": "PENDIENTE",
+  "subtotal": 24425,
+  "impuesto": 464075,
+  "envio": 2990,
+  "descuento": 2000,
+  "total_estimado": 489490,
+  "id_promocion": 25
+},
+{
+  "_id": {
+    "$oid": "691a04bacad10fad4d1000e1"
+  },
+  "id_pedido": 26,
+  "id_cliente": 1025,
+  "fecha_pedido": "27/06/24",
+  "estado": "PAGADO",
+  "subtotal": 25202,
+  "impuesto": 478838,
+  "envio": 2990,
+  "descuento": 50404,
+  "total_estimado": 456626,
+  "id_promocion": 26
+},
+{
+  "_id": {
+    "$oid": "691a04c6cad10fad4d1000e2"
+  },
+  "id_pedido": 27,
+  "id_cliente": 1026,
+  "fecha_pedido": "28/06/24",
+  "estado": "ENVIADO",
+  "subtotal": 25979,
+  "impuesto": 493601,
+  "envio": 0,
+  "descuento": 5000,
+  "total_estimado": 514580,
+  "id_promocion": 27
+},
+{
+  "_id": {
+    "$oid": "691a04d3cad10fad4d1000e3"
+  },
+  "id_pedido": 28,
+  "id_cliente": 1027,
+  "fecha_pedido": "29/06/24",
+  "estado": "PAGADO",
+  "subtotal": 26756,
+  "impuesto": 508364,
+  "envio": 2990,
+  "descuento": 0,
+  "total_estimado": 538110
+},
+{
+  "_id": {
+    "$oid": "691a04e3cad10fad4d1000e4"
+  },
+  "id_pedido": 29,
+  "id_cliente": 1028,
+  "fecha_pedido": "30/06/24",
+  "estado": "PENDIENTE",
+  "subtotal": 27533,
+  "impuesto": 523127,
+  "envio": 2990,
+  "descuento": 2000,
+  "total_estimado": 551650,
+  "id_promocion": 29
+},
+{
+  "_id": {
+    "$oid": "691a04f5cad10fad4d1000e5"
+  },
+  "id_pedido": 30,
+  "id_cliente": 1029,
+  "fecha_pedido": "01/07/24",
+  "estado": "PAGADO",
+  "subtotal": 28310,
+  "impuesto": 53789,
+  "envio": 0,
+  "descuento": 2831,
+  "total_estimado": 79268,
+  "id_promocion": 30
+},
+{
+  "_id": {
+    "$oid": "691a0509cad10fad4d1000e6"
+  },
+  "id_pedido": 31,
+  "id_cliente": 1030,
+  "fecha_pedido": "02/07/24",
+  "estado": "ENVIADO",
+  "subtotal": 29087,
+  "impuesto": 552653,
+  "envio": 2990,
+  "descuento": 5000,
+  "total_estimado": 579730,
+  "id_promocion": 31
+},
+{
+  "_id": {
+    "$oid": "691a0515cad10fad4d1000e7"
+  },
+  "id_pedido": 32,
+  "id_cliente": 1031,
+  "fecha_pedido": "03/07/24",
+  "estado": "PAGADO",
+  "subtotal": 29864,
+  "impuesto": 567416,
+  "envio": 2990,
+  "descuento": 0,
+  "total_estimado": 600270
+},
+{
+  "_id": {
+    "$oid": "691a0523cad10fad4d1000e8"
+  },
+  "id_pedido": 33,
+  "id_cliente": 1032,
+  "fecha_pedido": "04/07/24",
+  "estado": "PENDIENTE",
+  "subtotal": 30641,
+  "impuesto": 582179,
+  "envio": 0,
+  "descuento": 2000,
+  "total_estimado": 610820,
+  "id_promocion": 33
+},
+{
+  "_id": {
+    "$oid": "691a0530cad10fad4d1000e9"
+  },
+  "id_pedido": 34,
+  "id_cliente": 1033,
+  "fecha_pedido": "05/07/24",
+  "estado": "PAGADO",
+  "subtotal": 31418,
+  "impuesto": 596942,
+  "envio": 2990,
+  "descuento": 78545,
+  "total_estimado": 552805,
+  "id_promocion": 34
+},
+{
+  "_id": {
+    "$oid": "691a053dcad10fad4d1000ea"
+  },
+  "id_pedido": 35,
+  "id_cliente": 1034,
+  "fecha_pedido": "06/07/24",
+  "estado": "ENVIADO",
+  "subtotal": 32195,
+  "impuesto": 611705,
+  "envio": 2990,
+  "descuento": 5000,
+  "total_estimado": 641890,
+  "id_promocion": 35
+},
+{
+  "_id": {
+    "$oid": "691a054bcad10fad4d1000eb"
+  },
+  "id_pedido": 36,
+  "id_cliente": 1035,
+  "fecha_pedido": "07/07/24",
+  "estado": "PAGADO",
+  "subtotal": 32972,
+  "impuesto": 626468,
+  "envio": 0,
+  "descuento": 0,
+  "total_estimado": 659440
+},
+{
+  "_id": {
+    "$oid": "691a0556cad10fad4d1000ec"
+  },
+  "id_pedido": 37,
+  "id_cliente": 1036,
+  "fecha_pedido": "08/07/24",
+  "estado": "PENDIENTE",
+  "subtotal": 33749,
+  "impuesto": 641231,
+  "envio": 2990,
+  "descuento": 2000,
+  "total_estimado": 675970,
+  "id_promocion": 37
+},
+{
+  "_id": {
+    "$oid": "691a056bcad10fad4d1000ed"
+  },
+  "id_pedido": 38,
+  "id_cliente": 1037,
+  "fecha_pedido": "09/07/24",
+  "estado": "PAGADO",
+  "subtotal": 34526,
+  "impuesto": 655994,
+  "envio": 2990,
+  "descuento": 414312,
+  "total_estimado": 279198,
+  "id_promocion": 38
+},
+{
+  "_id": {
+    "$oid": "691a057fcad10fad4d1000ee"
+  },
+  "id_pedido": 39,
+  "id_cliente": 1038,
+  "fecha_pedido": "10/07/24",
+  "estado": "ENVIADO",
+  "subtotal": 35303,
+  "impuesto": 670757,
+  "envio": 0,
+  "descuento": 5000,
+  "total_estimado": 701060,
+  "id_promocion": 39
+},
+{
+  "_id": {
+    "$oid": "691a058ccad10fad4d1000ef"
+  },
+  "id_pedido": 40,
+  "id_cliente": 1039,
+  "fecha_pedido": "11/07/24",
+  "estado": "PAGADO",
+  "subtotal": 36080,
+  "impuesto": 68552,
+  "envio": 2990,
+  "descuento": 0,
+  "total_estimado": 107622
+},
+{
+  "_id": {
+    "$oid": "691a0599cad10fad4d1000f0"
+  },
+  "id_pedido": 41,
+  "id_cliente": 1040,
+  "fecha_pedido": "12/07/24",
+  "estado": "PENDIENTE",
+  "subtotal": 36857,
+  "impuesto": 700283,
+  "envio": 2990,
+  "descuento": 2000,
+  "total_estimado": 738130,
+  "id_promocion": 41
+},
+{
+  "_id": {
+    "$oid": "691a05a6cad10fad4d1000f1"
+  },
+  "id_pedido": 42,
+  "id_cliente": 1041,
+  "fecha_pedido": "13/07/24",
+  "estado": "PAGADO",
+  "subtotal": 37634,
+  "impuesto": 715046,
+  "envio": 0,
+  "descuento": 18817,
+  "total_estimado": 733863,
+  "id_promocion": 42
+},
+{
+  "_id": {
+    "$oid": "691a05b8cad10fad4d1000f2"
+  },
+  "id_pedido": 43,
+  "id_cliente": 1042,
+  "fecha_pedido": "14/07/24",
+  "estado": "ENVIADO",
+  "subtotal": 38411,
+  "impuesto": 729809,
+  "envio": 2990,
+  "descuento": 5000,
+  "total_estimado": 766210,
+  "id_promocion": 43
+},
+{
+  "_id": {
+    "$oid": "691a05c7cad10fad4d1000f3"
+  },
+  "id_pedido": 44,
+  "id_cliente": 1043,
+  "fecha_pedido": "15/07/24",
+  "estado": "PAGADO",
+  "subtotal": 39188,
+  "impuesto": 744572,
+  "envio": 2990,
+  "descuento": 0,
+  "total_estimado": 786750
+},
+{
+  "_id": {
+    "$oid": "691a05d5cad10fad4d1000f4"
+  },
+  "id_pedido": 45,
+  "id_cliente": 1044,
+  "fecha_pedido": "16/07/24",
+  "estado": "PENDIENTE",
+  "subtotal": 39965,
+  "impuesto": 759335,
+  "envio": 0,
+  "descuento": 2000,
+  "total_estimado": 797300,
+  "id_promocion": 45
+},
+{
+  "_id": {
+    "$oid": "691a05e7cad10fad4d1000f5"
+  },
+  "id_pedido": 46,
+  "id_cliente": 1045,
+  "fecha_pedido": "17/07/24",
+  "estado": "PAGADO",
+  "subtotal": 40742,
+  "impuesto": 774098,
+  "envio": 2990,
+  "descuento": 61113,
+  "total_estimado": 756717,
+  "id_promocion": 46
+},
+{
+  "_id": {
+    "$oid": "691a05f5cad10fad4d1000f6"
+  },
+  "id_pedido": 47,
+  "id_cliente": 1046,
+  "fecha_pedido": "18/07/24",
+  "estado": "ENVIADO",
+  "subtotal": 41519,
+  "impuesto": 788861,
+  "envio": 2990,
+  "descuento": 5000,
+  "total_estimado": 828370,
+  "id_promocion": 47
+},
+{
+  "_id": {
+    "$oid": "691a0602cad10fad4d1000f7"
+  },
+  "id_pedido": 48,
+  "id_cliente": 1047,
+  "fecha_pedido": "19/07/24",
+  "estado": "PAGADO",
+  "subtotal": 42296,
+  "impuesto": 803624,
+  "envio": 0,
+  "descuento": 0,
+  "total_estimado": 845920
+},
+{
+  "_id": {
+    "$oid": "691a060fcad10fad4d1000f8"
+  },
+  "id_pedido": 49,
+  "id_cliente": 1048,
+  "fecha_pedido": "20/07/24",
+  "estado": "PENDIENTE",
+  "subtotal": 43073,
+  "impuesto": 818387,
+  "envio": 2990,
+  "descuento": 2000,
+  "total_estimado": 862450,
+  "id_promocion": 49
+},
+{
+  "_id": {
+    "$oid": "691a0628cad10fad4d1000f9"
+  },
+  "id_pedido": 50,
+  "id_cliente": 1049,
+  "fecha_pedido": "21/07/24",
+  "estado": "PAGADO",
+  "subtotal": 43850,
+  "impuesto": 83315,
+  "envio": 2990,
+  "descuento": 30695,
+  "total_estimado": 99460,
+  "id_promocion": 50
+}]
